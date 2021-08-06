@@ -1,126 +1,126 @@
-"C:/Users/Jose Velazquez/Documents/Unreal Projects/Capstone/Content/UI/InventorySystem/Struct_ItemInfo.uasset" 0
-"C:/Users/Jose Velazquez/Documents/Unreal Projects/Capstone/Content/_Blueprint/_Base/BP_PartyGameInstance.uasset" 1
-"C:/Users/Jose Velazquez/Documents/Unreal Projects/Capstone/Content/UI/InventorySystem/UI/UseDropWG.uasset" 2
-"C:/Users/Jose Velazquez/Documents/Unreal Projects/Capstone/Content/UI/InventorySystem/Textures/BLANK.uasset" 3
-"C:/Users/Jose Velazquez/Documents/Unreal Projects/Capstone/Content/UI/InventorySystem/InventoryInst.uasset" 4
-"C:/Users/Jose Velazquez/Documents/Unreal Projects/Capstone/Content/UI/InventorySystem/InteractInterface.uasset" 5
-"../../../Engine/Content/EditorBlueprintResources/StandardMacros.uasset" 6
-"C:/Users/Jose Velazquez/Documents/Unreal Projects/Capstone/Content/UI/InventorySystem/UI/InventorySlotWG.uasset" 7
-"C:/Users/Jose Velazquez/Documents/Unreal Projects/Capstone/Content/UI/InventorySystem/Textures/InventoryBG.uasset" 8
-"C:/Users/Jose Velazquez/Documents/Unreal Projects/Capstone/Content/UI/InventorySystem/UI/InventoryWG.uasset" 9
-"C:/Users/Jose Velazquez/Documents/Unreal Projects/Capstone/Content/UI/InventorySystem/Textures/healthpotionIcon.uasset" 10
-"C:/Users/Jose Velazquez/Documents/Unreal Projects/Capstone/Content/UI/InventorySystem/Materials/Health.uasset" 11
-"C:/Users/Jose Velazquez/Documents/Unreal Projects/Capstone/Content/UI/InventorySystem/Materials/CorkColour.uasset" 12
-"../../../Engine/Content/EngineMaterials/T_Default_Material_Grid_N.uasset" 13
-"../../../Engine/Content/EngineMaterials/T_Default_Material_Grid_M.uasset" 14
-"../../../Engine/Content/Functions/Engine_MaterialFunctions01/Opacity/CameraDepthFade.uasset" 15
-"../../../Engine/Content/EngineMaterials/WorldGridMaterial.uasset" 16
-"C:/Users/Jose Velazquez/Documents/Unreal Projects/Capstone/Content/UI/InventorySystem/Consumables/CONSUME_POTION.uasset" 17
-"C:/Users/Jose Velazquez/Documents/Unreal Projects/Capstone/Content/UI/UI_Art/MapaJapones.uasset" 18
-"C:/Users/Jose Velazquez/Documents/Unreal Projects/Capstone/Content/UI/Fornt/Luna.uasset" 19
-"C:/Users/Jose Velazquez/Documents/Unreal Projects/Capstone/Content/UI/Fornt/Luna_Font.uasset" 20
-"C:/Users/Jose Velazquez/Documents/Unreal Projects/Capstone/Content/_Blueprint/_Base/BP_PartyGameStateBase.uasset" 21
-"C:/Users/Jose Velazquez/Documents/Unreal Projects/Capstone/Content/_Blueprint/_Base/BP_Hud.uasset" 22
-"C:/Users/Jose Velazquez/Documents/Unreal Projects/Capstone/Content/Character/Material/Color4.uasset" 23
-"C:/Users/Jose Velazquez/Documents/Unreal Projects/Capstone/Content/Character/Material/Color3.uasset" 24
-"C:/Users/Jose Velazquez/Documents/Unreal Projects/Capstone/Content/Character/Material/Color2.uasset" 25
-"C:/Users/Jose Velazquez/Documents/Unreal Projects/Capstone/Content/Character/Material/Color1.uasset" 26
-"C:/Users/Jose Velazquez/Documents/Unreal Projects/Capstone/Content/Character/Character/Base_Model__1__PhysicsAsset.uasset" 27
-"C:/Users/Jose Velazquez/Documents/Unreal Projects/Capstone/Content/Character/Character/lambert1.uasset" 28
-"C:/Users/Jose Velazquez/Documents/Unreal Projects/Capstone/Content/Character/Character/Base_Model__1__Skeleton.uasset" 29
-"C:/Users/Jose Velazquez/Documents/Unreal Projects/Capstone/Content/Character/Character/Base_Model__1_.uasset" 30
-"../../../Engine/Content/Animation/DefaultAnimCurveCompressionSettings.uasset" 31
-"../../../Engine/Content/Animation/DefaultAnimBoneCompressionSettings.uasset" 32
-"C:/Users/Jose Velazquez/Documents/Unreal Projects/Capstone/Content/Character/Animation/Walking.uasset" 33
-"C:/Users/Jose Velazquez/Documents/Unreal Projects/Capstone/Content/Character/Animation/Running.uasset" 34
-"C:/Users/Jose Velazquez/Documents/Unreal Projects/Capstone/Content/Character/Animation/Breathing_Idle.uasset" 35
-"C:/Users/Jose Velazquez/Documents/Unreal Projects/Capstone/Content/Character/Character/BS_Character.uasset" 36
-"C:/Users/Jose Velazquez/Documents/Unreal Projects/Capstone/Content/Character/Animation/Jump2.uasset" 37
-"C:/Users/Jose Velazquez/Documents/Unreal Projects/Capstone/Content/Character/Animation/Jump1.uasset" 38
-"C:/Users/Jose Velazquez/Documents/Unreal Projects/Capstone/Content/Character/Animation/Jump.uasset" 39
-"C:/Users/Jose Velazquez/Documents/Unreal Projects/Capstone/Content/Character/Character/Anim_Character.uasset" 40
-"C:/Users/Jose Velazquez/Documents/Unreal Projects/Capstone/Content/_Blueprint/Obstacle_Course/RunnerCharacter.uasset" 41
-"C:/Users/Jose Velazquez/Documents/Unreal Projects/Capstone/Content/_Blueprint/MG_Tiro_Al_Blanco/Game_Points.uasset" 42
-"../../../Engine/Content/EngineFonts/Faces/RobotoTiny.uasset" 43
-"../../../Engine/Content/EngineFonts/Faces/DroidSansFallback.uasset" 44
-"../../../Engine/Content/EngineFonts/RobotoTiny.uasset" 45
-"C:/Users/Jose Velazquez/Documents/Unreal Projects/Capstone/Content/_Blueprint/MG_Tiro_Al_Blanco/Crosshair.uasset" 46
-"../../../Engine/Content/Tutorial/Landscape/TutorialAssets/Landscape_Material.uasset" 47
-"../../../Engine/Content/EngineDebugMaterials/VertexColorViewMode_RedOnly.uasset" 48
-"../../../Engine/Content/EditorMeshes/ArcadeEditorSphere.uasset" 49
-"../../../Engine/Content/Functions/Engine_MaterialFunctions02/Utility/AppendMany.uasset" 50
-"../../../Engine/Content/BufferVisualization/Anisotropy.uasset" 51
-"C:/Users/Jose Velazquez/Documents/Unreal Projects/Capstone/Content/_Blueprint/MG_Tiro_Al_Blanco/BP_Bala_Tiro_Al_Blanco.uasset" 52
-"../../../Engine/Content/EditorBlueprintResources/ActorMacros.uasset" 53
-"C:/Users/Jose Velazquez/Documents/Unreal Projects/Capstone/Content/Geometry/Meshes/CubeMaterial.uasset" 54
-"C:/Users/Jose Velazquez/Documents/Unreal Projects/Capstone/Content/Geometry/Meshes/1M_Cube.uasset" 55
-"C:/Users/Jose Velazquez/Documents/Unreal Projects/Capstone/Content/Assets/Shooting_Target/Texture/Shooting_Target_lambert1_OcclusionRoughnessMetallic.uasset" 56
-"C:/Users/Jose Velazquez/Documents/Unreal Projects/Capstone/Content/Assets/Shooting_Target/Texture/Shooting_Target_lambert1_Normal.uasset" 57
-"C:/Users/Jose Velazquez/Documents/Unreal Projects/Capstone/Content/Assets/Shooting_Target/Texture/Shooting_Target_lambert1_BaseColor.uasset" 58
-"C:/Users/Jose Velazquez/Documents/Unreal Projects/Capstone/Content/Assets/Shooting_Target/lambert1.uasset" 59
-"C:/Users/Jose Velazquez/Documents/Unreal Projects/Capstone/Content/Assets/Shooting_Target/Shooting_Target.uasset" 60
-"../../../Engine/Content/BasicShapes/Cube.uasset" 61
-"C:/Users/Jose Velazquez/Documents/Unreal Projects/Capstone/Content/_Blueprint/MG_Tiro_Al_Blanco/BP_Target.uasset" 62
-"C:/Users/Jose Velazquez/Documents/Unreal Projects/Capstone/Content/_Blueprint/_Base/BP_PosMiniGames.uasset" 63
-"C:/Users/Jose Velazquez/Documents/Unreal Projects/Capstone/Content/UI/UI_Art/UIT_NordicSimbol.uasset" 64
-"C:/Users/Jose Velazquez/Documents/Unreal Projects/Capstone/Content/UI/UI_Art/UIT_JapanSimbol.uasset" 65
-"C:/Users/Jose Velazquez/Documents/Unreal Projects/Capstone/Content/UI/UI_Art/UIT_EgypSimbol.uasset" 66
-"C:/Users/Jose Velazquez/Documents/Unreal Projects/Capstone/Content/UI/UI_Art/UIT_Blank.uasset" 67
-"C:/Users/Jose Velazquez/Documents/Unreal Projects/Capstone/Content/_Blueprint/_Party/W_NumPlayer.uasset" 68
-"C:/Users/Jose Velazquez/Documents/Unreal Projects/Capstone/Content/Character/Animation/Idle.uasset" 69
-"C:/Users/Jose Velazquez/Documents/Unreal Projects/Capstone/Content/_Blueprint/_Party/BP_CharacterPlayer.uasset" 70
-"C:/Users/Jose Velazquez/Documents/Unreal Projects/Capstone/Content/UI/UI_Art/UIT_PirateSimbol.uasset" 71
-"C:/Users/Jose Velazquez/Documents/Unreal Projects/Capstone/Content/UI/Widgets/WBP_MiniGames.uasset" 72
-"C:/Users/Jose Velazquez/Documents/Unreal Projects/Capstone/Content/UI/Widgets/WBP_CounterMiniGames.uasset" 73
-"../../../Engine/Content/EngineMaterials/DefaultDiffuse.uasset" 74
-"../../../Engine/Content/Functions/Engine_MaterialFunctions02/WorldPositionOffset/LocalPosition.uasset" 75
-"../../../Engine/Content/Functions/Engine_MaterialFunctions01/Gradient/LinearGradient.uasset" 76
-"../../../Engine/Content/Functions/Engine_MaterialFunctions01/ImageAdjustment/CheapContrast.uasset" 77
-"../../../Engine/Content/Functions/Engine_MaterialFunctions01/Texturing/WorldAlignedTexture.uasset" 78
-"C:/Users/Jose Velazquez/Documents/Unreal Projects/Capstone/Content/LPSDeluxe2TropicalEnvironment/LPSD2_Textures/T_LPSNoise.uasset" 79
-"C:/Users/Jose Velazquez/Documents/Unreal Projects/Capstone/Content/LPSDeluxe2TropicalEnvironment/LPSD2_Materials/Materials/Master_Color/M_Color_Master.uasset" 80
-"C:/Users/Jose Velazquez/Documents/Unreal Projects/Capstone/Content/LPSDeluxe2TropicalEnvironment/LPSD2_Materials/Materials/Master_Color_Instances/MI_Color_Caramel.uasset" 81
-"C:/Users/Jose Velazquez/Documents/Unreal Projects/Capstone/Content/LPSDeluxe2TropicalEnvironment/LPSD2_Materials/Materials/Master_Color_Instances/MI_Color_TropicBlue.uasset" 82
-"C:/Users/Jose Velazquez/Documents/Unreal Projects/Capstone/Content/LPSDeluxe2TropicalEnvironment/LPSD2_Materials/Materials/Master_Color_Instances/MI_Color_Oak.uasset" 83
-"C:/Users/Jose Velazquez/Documents/Unreal Projects/Capstone/Content/LPSDeluxe2TropicalEnvironment/LPSD2_Materials/Materials/Master_Color_Instances/MI_Color_Caramel_2.uasset" 84
-"C:/Users/Jose Velazquez/Documents/Unreal Projects/Capstone/Content/LPSDeluxe2TropicalEnvironment/LPSD2_Meshes/Beach/SM_SmallBoat_1.uasset" 85
-"C:/Users/Jose Velazquez/Documents/Unreal Projects/Capstone/Content/_Blueprint/MG_Tap/BP_CamaraPlayerTap.uasset" 86
-"../../../Engine/Content/Engine_MI_Shaders/T_Reflection.uasset" 87
-"../../../Engine/Content/Engine_MI_Shaders/M_Shader_SimpleTranslucent.uasset" 88
-"../../../Engine/Content/Engine_MI_Shaders/T_Emissive.uasset" 89
-"../../../Engine/Content/Engine_MI_Shaders/Instances/M_Shader_SimpleTranslucent_Invis.uasset" 90
-"C:/Users/Jose Velazquez/Documents/Unreal Projects/Capstone/Content/Assets/Egypt_Table/Textures/Egypt_Table_lambert1_OcclusionRoughnessMetallic.uasset" 91
-"C:/Users/Jose Velazquez/Documents/Unreal Projects/Capstone/Content/Assets/Egypt_Table/Textures/Egypt_Table_lambert1_Normal.uasset" 92
-"C:/Users/Jose Velazquez/Documents/Unreal Projects/Capstone/Content/Assets/Egypt_Table/Textures/Egypt_Table_lambert1_BaseColor.uasset" 93
-"C:/Users/Jose Velazquez/Documents/Unreal Projects/Capstone/Content/Assets/Egypt_Table/lambert1.uasset" 94
-"C:/Users/Jose Velazquez/Documents/Unreal Projects/Capstone/Content/Assets/Egypt_Table/Egypt_Table.uasset" 95
-"C:/Users/Jose Velazquez/Documents/Unreal Projects/Capstone/Content/LPSDeluxe2TropicalEnvironment/LPSD2_Materials/Materials/Master_Color_Instances/MI_Metal_Bronze.uasset" 96
-"C:/Users/Jose Velazquez/Documents/Unreal Projects/Capstone/Content/LPSDeluxe2TropicalEnvironment/LPSD2_Materials/Materials/Master_Color_Instances/MI_Metal_Iron.uasset" 97
-"C:/Users/Jose Velazquez/Documents/Unreal Projects/Capstone/Content/LPSDeluxe2TropicalEnvironment/LPSD2_Meshes/Treasure/SM_TreasureVase_1.uasset" 98
-"C:/Users/Jose Velazquez/Documents/Unreal Projects/Capstone/Content/_Blueprint/MG_BottleFlip/BP_CamaraBottleFlip.uasset" 99
-"C:/Users/Jose Velazquez/Documents/Unreal Projects/Capstone/Content/UI/Widgets/EndGame.uasset" 100
-"C:/Users/Jose Velazquez/Documents/Unreal Projects/Capstone/Content/_Blueprint/_Base/BP_PartyPlayerController.uasset" 101
-"C:/Users/Jose Velazquez/Documents/Unreal Projects/Capstone/Content/_Blueprint/MG_Tiro_Al_Blanco/BP_CharacterTargetShooter.uasset" 102
-"C:/Users/Jose Velazquez/Documents/Unreal Projects/Capstone/Content/_Blueprint/_Base/BP_CapstoneGameModeBase.uasset" 103
-"C:/Users/Jose Velazquez/Documents/Unreal Projects/Capstone/Content/_Blueprint/_Menu/WBP_MenuLobby.uasset" 104
-"C:/Users/Jose Velazquez/Documents/Unreal Projects/Capstone/Content/_Texture/White.uasset" 105
-"C:/Users/Jose Velazquez/Documents/Unreal Projects/Capstone/Content/UI/UI_Art/Regalo.uasset" 106
-"C:/Users/Jose Velazquez/Documents/Unreal Projects/Capstone/Content/UI/UI_Art/Regalo_Mat.uasset" 107
-"C:/Users/Jose Velazquez/Documents/Unreal Projects/Capstone/Content/UI/UI_Art/premioC.uasset" 108
-"C:/Users/Jose Velazquez/Documents/Unreal Projects/Capstone/Content/UI/UI_Art/premioC_Mat.uasset" 109
-"C:/Users/Jose Velazquez/Documents/Unreal Projects/Capstone/Content/UI/UI_Art/LessMoney.uasset" 110
-"C:/Users/Jose Velazquez/Documents/Unreal Projects/Capstone/Content/UI/UI_Art/LessMoney_Mat.uasset" 111
-"C:/Users/Jose Velazquez/Documents/Unreal Projects/Capstone/Content/UI/UI_Art/GiveMoney.uasset" 112
-"C:/Users/Jose Velazquez/Documents/Unreal Projects/Capstone/Content/UI/UI_Art/GiveMoney_Mat.uasset" 113
-"../../../Engine/Content/BasicShapes/Plane.uasset" 114
-"C:/Users/Jose Velazquez/Documents/Unreal Projects/Capstone/Content/LPSDeluxe2TropicalEnvironment/LPSD2_Materials/Materials/Master_Color_Instances/MI_Color_Black.uasset" 115
-"C:/Users/Jose Velazquez/Documents/Unreal Projects/Capstone/Content/_Blueprint/_Party/BP_Block.uasset" 116
-"C:/Users/Jose Velazquez/Documents/Unreal Projects/Capstone/Content/UI/UI_Art/UIT_JapanTag.uasset" 117
-"C:/Users/Jose Velazquez/Documents/Unreal Projects/Capstone/Content/UI/UI_Art/UIT_EgipcioTag.uasset" 118
-"C:/Users/Jose Velazquez/Documents/Unreal Projects/Capstone/Content/UI/UI_Art/UIT_VikinTag.uasset" 119
-"C:/Users/Jose Velazquez/Documents/Unreal Projects/Capstone/Content/UI/UI_Art/UIT_PirateTag.uasset" 120
-"C:/Users/Jose Velazquez/Documents/Unreal Projects/Capstone/Content/UI/Widgets/WBP_PrincipalTag.uasset" 121
-"C:/Users/Jose Velazquez/Documents/Unreal Projects/Capstone/Content/_Blueprint/_Party/BP_CamaraPlayer.uasset" 122
+"C:/Users/Jose Velazquez/Documents/Unreal Projects/Capstone/Content/_Texture/White.uasset" 0
+"C:/Users/Jose Velazquez/Documents/Unreal Projects/Capstone/Content/UI/UI_Art/Regalo.uasset" 1
+"C:/Users/Jose Velazquez/Documents/Unreal Projects/Capstone/Content/UI/UI_Art/Regalo_Mat.uasset" 2
+"C:/Users/Jose Velazquez/Documents/Unreal Projects/Capstone/Content/UI/UI_Art/premioC.uasset" 3
+"C:/Users/Jose Velazquez/Documents/Unreal Projects/Capstone/Content/UI/UI_Art/premioC_Mat.uasset" 4
+"C:/Users/Jose Velazquez/Documents/Unreal Projects/Capstone/Content/UI/UI_Art/LessMoney.uasset" 5
+"C:/Users/Jose Velazquez/Documents/Unreal Projects/Capstone/Content/UI/UI_Art/LessMoney_Mat.uasset" 6
+"C:/Users/Jose Velazquez/Documents/Unreal Projects/Capstone/Content/UI/UI_Art/GiveMoney.uasset" 7
+"C:/Users/Jose Velazquez/Documents/Unreal Projects/Capstone/Content/UI/UI_Art/GiveMoney_Mat.uasset" 8
+"../../../Engine/Content/EngineMaterials/T_Default_Material_Grid_N.uasset" 9
+"../../../Engine/Content/EngineMaterials/T_Default_Material_Grid_M.uasset" 10
+"../../../Engine/Content/Functions/Engine_MaterialFunctions01/Opacity/CameraDepthFade.uasset" 11
+"../../../Engine/Content/EngineMaterials/WorldGridMaterial.uasset" 12
+"../../../Engine/Content/BasicShapes/Plane.uasset" 13
+"C:/Users/Jose Velazquez/Documents/Unreal Projects/Capstone/Content/LPSDeluxe2TropicalEnvironment/LPSD2_Textures/T_LPSNoise.uasset" 14
+"../../../Engine/Content/Functions/Engine_MaterialFunctions01/Gradient/LinearGradient.uasset" 15
+"../../../Engine/Content/EngineMaterials/DefaultDiffuse.uasset" 16
+"../../../Engine/Content/Functions/Engine_MaterialFunctions02/WorldPositionOffset/LocalPosition.uasset" 17
+"../../../Engine/Content/Functions/Engine_MaterialFunctions01/ImageAdjustment/CheapContrast.uasset" 18
+"../../../Engine/Content/Functions/Engine_MaterialFunctions01/Texturing/WorldAlignedTexture.uasset" 19
+"C:/Users/Jose Velazquez/Documents/Unreal Projects/Capstone/Content/LPSDeluxe2TropicalEnvironment/LPSD2_Materials/Materials/Master_Color/M_Color_Master.uasset" 20
+"C:/Users/Jose Velazquez/Documents/Unreal Projects/Capstone/Content/LPSDeluxe2TropicalEnvironment/LPSD2_Materials/Materials/Master_Color_Instances/MI_Color_Black.uasset" 21
+"C:/Users/Jose Velazquez/Documents/Unreal Projects/Capstone/Content/_Blueprint/_Party/BP_Block.uasset" 22
+"../../../Engine/Content/EditorBlueprintResources/StandardMacros.uasset" 23
+"../../../Engine/Content/EditorBlueprintResources/ActorMacros.uasset" 24
+"C:/Users/Jose Velazquez/Documents/Unreal Projects/Capstone/Content/Character/Material/Color4.uasset" 25
+"C:/Users/Jose Velazquez/Documents/Unreal Projects/Capstone/Content/Character/Material/Color3.uasset" 26
+"C:/Users/Jose Velazquez/Documents/Unreal Projects/Capstone/Content/Character/Material/Color2.uasset" 27
+"C:/Users/Jose Velazquez/Documents/Unreal Projects/Capstone/Content/Character/Material/Color1.uasset" 28
+"C:/Users/Jose Velazquez/Documents/Unreal Projects/Capstone/Content/Character/Character/Base_Model__1__PhysicsAsset.uasset" 29
+"C:/Users/Jose Velazquez/Documents/Unreal Projects/Capstone/Content/Character/Character/lambert1.uasset" 30
+"C:/Users/Jose Velazquez/Documents/Unreal Projects/Capstone/Content/Character/Character/Base_Model__1__Skeleton.uasset" 31
+"C:/Users/Jose Velazquez/Documents/Unreal Projects/Capstone/Content/Character/Character/Base_Model__1_.uasset" 32
+"../../../Engine/Content/Animation/DefaultAnimCurveCompressionSettings.uasset" 33
+"../../../Engine/Content/Animation/DefaultAnimBoneCompressionSettings.uasset" 34
+"C:/Users/Jose Velazquez/Documents/Unreal Projects/Capstone/Content/Character/Animation/Walking.uasset" 35
+"C:/Users/Jose Velazquez/Documents/Unreal Projects/Capstone/Content/Character/Animation/Running.uasset" 36
+"C:/Users/Jose Velazquez/Documents/Unreal Projects/Capstone/Content/Character/Animation/Breathing_Idle.uasset" 37
+"C:/Users/Jose Velazquez/Documents/Unreal Projects/Capstone/Content/Character/Character/BS_Character.uasset" 38
+"C:/Users/Jose Velazquez/Documents/Unreal Projects/Capstone/Content/Character/Animation/Jump2.uasset" 39
+"C:/Users/Jose Velazquez/Documents/Unreal Projects/Capstone/Content/Character/Animation/Jump1.uasset" 40
+"C:/Users/Jose Velazquez/Documents/Unreal Projects/Capstone/Content/Character/Animation/Jump.uasset" 41
+"C:/Users/Jose Velazquez/Documents/Unreal Projects/Capstone/Content/Character/Character/Anim_Character.uasset" 42
+"C:/Users/Jose Velazquez/Documents/Unreal Projects/Capstone/Content/_Blueprint/Obstacle_Course/RunnerCharacter.uasset" 43
+"C:/Users/Jose Velazquez/Documents/Unreal Projects/Capstone/Content/_Blueprint/_Base/BP_PosMiniGames.uasset" 44
+"C:/Users/Jose Velazquez/Documents/Unreal Projects/Capstone/Content/_Blueprint/MG_Tiro_Al_Blanco/Game_Points.uasset" 45
+"../../../Engine/Content/EngineFonts/Faces/RobotoTiny.uasset" 46
+"../../../Engine/Content/EngineFonts/Faces/DroidSansFallback.uasset" 47
+"../../../Engine/Content/EngineFonts/RobotoTiny.uasset" 48
+"C:/Users/Jose Velazquez/Documents/Unreal Projects/Capstone/Content/_Blueprint/MG_Tiro_Al_Blanco/Crosshair.uasset" 49
+"../../../Engine/Content/Tutorial/Landscape/TutorialAssets/Landscape_Material.uasset" 50
+"../../../Engine/Content/EngineDebugMaterials/VertexColorViewMode_RedOnly.uasset" 51
+"../../../Engine/Content/EditorMeshes/ArcadeEditorSphere.uasset" 52
+"../../../Engine/Content/Functions/Engine_MaterialFunctions02/Utility/AppendMany.uasset" 53
+"../../../Engine/Content/BufferVisualization/Anisotropy.uasset" 54
+"C:/Users/Jose Velazquez/Documents/Unreal Projects/Capstone/Content/_Blueprint/MG_Tiro_Al_Blanco/BP_Bala_Tiro_Al_Blanco.uasset" 55
+"C:/Users/Jose Velazquez/Documents/Unreal Projects/Capstone/Content/Geometry/Meshes/CubeMaterial.uasset" 56
+"C:/Users/Jose Velazquez/Documents/Unreal Projects/Capstone/Content/Geometry/Meshes/1M_Cube.uasset" 57
+"C:/Users/Jose Velazquez/Documents/Unreal Projects/Capstone/Content/Assets/Shooting_Target/Texture/Shooting_Target_lambert1_OcclusionRoughnessMetallic.uasset" 58
+"C:/Users/Jose Velazquez/Documents/Unreal Projects/Capstone/Content/Assets/Shooting_Target/Texture/Shooting_Target_lambert1_Normal.uasset" 59
+"C:/Users/Jose Velazquez/Documents/Unreal Projects/Capstone/Content/Assets/Shooting_Target/Texture/Shooting_Target_lambert1_BaseColor.uasset" 60
+"C:/Users/Jose Velazquez/Documents/Unreal Projects/Capstone/Content/Assets/Shooting_Target/lambert1.uasset" 61
+"C:/Users/Jose Velazquez/Documents/Unreal Projects/Capstone/Content/Assets/Shooting_Target/Shooting_Target.uasset" 62
+"../../../Engine/Content/BasicShapes/Cube.uasset" 63
+"C:/Users/Jose Velazquez/Documents/Unreal Projects/Capstone/Content/_Blueprint/MG_Tiro_Al_Blanco/BP_Target.uasset" 64
+"C:/Users/Jose Velazquez/Documents/Unreal Projects/Capstone/Content/_Blueprint/_Party/W_NumPlayer.uasset" 65
+"C:/Users/Jose Velazquez/Documents/Unreal Projects/Capstone/Content/Character/Animation/Idle.uasset" 66
+"C:/Users/Jose Velazquez/Documents/Unreal Projects/Capstone/Content/_Blueprint/_Party/BP_CharacterPlayer.uasset" 67
+"C:/Users/Jose Velazquez/Documents/Unreal Projects/Capstone/Content/UI/UI_Art/UIT_PirateSimbol.uasset" 68
+"C:/Users/Jose Velazquez/Documents/Unreal Projects/Capstone/Content/UI/UI_Art/UIT_NordicSimbol.uasset" 69
+"C:/Users/Jose Velazquez/Documents/Unreal Projects/Capstone/Content/UI/UI_Art/UIT_JapanSimbol.uasset" 70
+"C:/Users/Jose Velazquez/Documents/Unreal Projects/Capstone/Content/UI/UI_Art/UIT_EgypSimbol.uasset" 71
+"C:/Users/Jose Velazquez/Documents/Unreal Projects/Capstone/Content/UI/UI_Art/UIT_Blank.uasset" 72
+"C:/Users/Jose Velazquez/Documents/Unreal Projects/Capstone/Content/UI/Widgets/WBP_MiniGames.uasset" 73
+"C:/Users/Jose Velazquez/Documents/Unreal Projects/Capstone/Content/UI/Fornt/Luna.uasset" 74
+"C:/Users/Jose Velazquez/Documents/Unreal Projects/Capstone/Content/UI/Fornt/Luna_Font.uasset" 75
+"C:/Users/Jose Velazquez/Documents/Unreal Projects/Capstone/Content/UI/Widgets/WBP_CounterMiniGames.uasset" 76
+"C:/Users/Jose Velazquez/Documents/Unreal Projects/Capstone/Content/_Blueprint/MG_Tiro_Al_Blanco/BP_CharacterTargetShooter.uasset" 77
+"../../../Engine/Content/Engine_MI_Shaders/T_Reflection.uasset" 78
+"../../../Engine/Content/Engine_MI_Shaders/M_Shader_SimpleTranslucent.uasset" 79
+"../../../Engine/Content/Engine_MI_Shaders/T_Emissive.uasset" 80
+"../../../Engine/Content/Engine_MI_Shaders/Instances/M_Shader_SimpleTranslucent_Invis.uasset" 81
+"C:/Users/Jose Velazquez/Documents/Unreal Projects/Capstone/Content/LPSDeluxe2TropicalEnvironment/LPSD2_Materials/Materials/Master_Color_Instances/MI_Metal_Bronze.uasset" 82
+"C:/Users/Jose Velazquez/Documents/Unreal Projects/Capstone/Content/LPSDeluxe2TropicalEnvironment/LPSD2_Materials/Materials/Master_Color_Instances/MI_Metal_Iron.uasset" 83
+"C:/Users/Jose Velazquez/Documents/Unreal Projects/Capstone/Content/LPSDeluxe2TropicalEnvironment/LPSD2_Meshes/Treasure/SM_TreasureVase_1.uasset" 84
+"C:/Users/Jose Velazquez/Documents/Unreal Projects/Capstone/Content/Assets/Egypt_Table/Textures/Egypt_Table_lambert1_OcclusionRoughnessMetallic.uasset" 85
+"C:/Users/Jose Velazquez/Documents/Unreal Projects/Capstone/Content/Assets/Egypt_Table/Textures/Egypt_Table_lambert1_Normal.uasset" 86
+"C:/Users/Jose Velazquez/Documents/Unreal Projects/Capstone/Content/Assets/Egypt_Table/Textures/Egypt_Table_lambert1_BaseColor.uasset" 87
+"C:/Users/Jose Velazquez/Documents/Unreal Projects/Capstone/Content/Assets/Egypt_Table/lambert1.uasset" 88
+"C:/Users/Jose Velazquez/Documents/Unreal Projects/Capstone/Content/Assets/Egypt_Table/Egypt_Table.uasset" 89
+"C:/Users/Jose Velazquez/Documents/Unreal Projects/Capstone/Content/_Blueprint/MG_BottleFlip/BP_CamaraBottleFlip.uasset" 90
+"C:/Users/Jose Velazquez/Documents/Unreal Projects/Capstone/Content/UI/Widgets/EndGame.uasset" 91
+"C:/Users/Jose Velazquez/Documents/Unreal Projects/Capstone/Content/_Blueprint/_Base/BP_PartyPlayerController.uasset" 92
+"C:/Users/Jose Velazquez/Documents/Unreal Projects/Capstone/Content/LPSDeluxe2TropicalEnvironment/LPSD2_Materials/Materials/Master_Color_Instances/MI_Color_Caramel.uasset" 93
+"C:/Users/Jose Velazquez/Documents/Unreal Projects/Capstone/Content/LPSDeluxe2TropicalEnvironment/LPSD2_Materials/Materials/Master_Color_Instances/MI_Color_Oak.uasset" 94
+"C:/Users/Jose Velazquez/Documents/Unreal Projects/Capstone/Content/LPSDeluxe2TropicalEnvironment/LPSD2_Materials/Materials/Master_Color_Instances/MI_Color_Caramel_2.uasset" 95
+"C:/Users/Jose Velazquez/Documents/Unreal Projects/Capstone/Content/LPSDeluxe2TropicalEnvironment/LPSD2_Materials/Materials/Master_Color_Instances/MI_Color_TropicBlue.uasset" 96
+"C:/Users/Jose Velazquez/Documents/Unreal Projects/Capstone/Content/LPSDeluxe2TropicalEnvironment/LPSD2_Meshes/Beach/SM_SmallBoat_1.uasset" 97
+"C:/Users/Jose Velazquez/Documents/Unreal Projects/Capstone/Content/_Blueprint/MG_Tap/BP_CamaraPlayerTap.uasset" 98
+"C:/Users/Jose Velazquez/Documents/Unreal Projects/Capstone/Content/_Blueprint/_Base/BP_PartyGameStateBase.uasset" 99
+"C:/Users/Jose Velazquez/Documents/Unreal Projects/Capstone/Content/_Blueprint/_Base/BP_Hud.uasset" 100
+"C:/Users/Jose Velazquez/Documents/Unreal Projects/Capstone/Content/_Blueprint/_Base/BP_CapstoneGameModeBase.uasset" 101
+"C:/Users/Jose Velazquez/Documents/Unreal Projects/Capstone/Content/UI/UI_Art/MapaJapones.uasset" 102
+"C:/Users/Jose Velazquez/Documents/Unreal Projects/Capstone/Content/_Blueprint/_Menu/WBP_MenuLobby.uasset" 103
+"C:/Users/Jose Velazquez/Documents/Unreal Projects/Capstone/Content/UI/UI_Art/UIT_VikinTag.uasset" 104
+"C:/Users/Jose Velazquez/Documents/Unreal Projects/Capstone/Content/UI/UI_Art/UIT_PirateTag.uasset" 105
+"C:/Users/Jose Velazquez/Documents/Unreal Projects/Capstone/Content/UI/UI_Art/UIT_JapanTag.uasset" 106
+"C:/Users/Jose Velazquez/Documents/Unreal Projects/Capstone/Content/UI/UI_Art/UIT_EgipcioTag.uasset" 107
+"C:/Users/Jose Velazquez/Documents/Unreal Projects/Capstone/Content/UI/Widgets/WBP_PrincipalTag.uasset" 108
+"C:/Users/Jose Velazquez/Documents/Unreal Projects/Capstone/Content/UI/InventorySystem/Struct_ItemInfo.uasset" 109
+"C:/Users/Jose Velazquez/Documents/Unreal Projects/Capstone/Content/_Blueprint/_Base/BP_PartyGameInstance.uasset" 110
+"C:/Users/Jose Velazquez/Documents/Unreal Projects/Capstone/Content/UI/InventorySystem/UI/UseDropWG.uasset" 111
+"C:/Users/Jose Velazquez/Documents/Unreal Projects/Capstone/Content/UI/InventorySystem/Textures/BLANK.uasset" 112
+"C:/Users/Jose Velazquez/Documents/Unreal Projects/Capstone/Content/UI/InventorySystem/InventoryInst.uasset" 113
+"C:/Users/Jose Velazquez/Documents/Unreal Projects/Capstone/Content/UI/InventorySystem/InteractInterface.uasset" 114
+"C:/Users/Jose Velazquez/Documents/Unreal Projects/Capstone/Content/UI/InventorySystem/UI/InventorySlotWG.uasset" 115
+"C:/Users/Jose Velazquez/Documents/Unreal Projects/Capstone/Content/UI/InventorySystem/Textures/InventoryBG.uasset" 116
+"C:/Users/Jose Velazquez/Documents/Unreal Projects/Capstone/Content/UI/InventorySystem/UI/InventoryWG.uasset" 117
+"C:/Users/Jose Velazquez/Documents/Unreal Projects/Capstone/Content/_Blueprint/_Party/BP_CamaraPlayer.uasset" 118
+"C:/Users/Jose Velazquez/Documents/Unreal Projects/Capstone/Content/UI/InventorySystem/Textures/healthpotionIcon.uasset" 119
+"C:/Users/Jose Velazquez/Documents/Unreal Projects/Capstone/Content/UI/InventorySystem/Materials/Health.uasset" 120
+"C:/Users/Jose Velazquez/Documents/Unreal Projects/Capstone/Content/UI/InventorySystem/Materials/CorkColour.uasset" 121
+"C:/Users/Jose Velazquez/Documents/Unreal Projects/Capstone/Content/UI/InventorySystem/Consumables/CONSUME_POTION.uasset" 122
 "C:/Users/Jose Velazquez/Documents/Unreal Projects/Capstone/Content/_Blueprint/_Party/Items/HealthPotion.uasset" 123
 "C:/Users/Jose Velazquez/Documents/Unreal Projects/Capstone/Content/UI/InventorySystem/Consumables/HealthPotion.uasset" 124
 "C:/Users/Jose Velazquez/Documents/Unreal Projects/Capstone/Content/UI/InventorySystem/Consumables/ManaPotion.uasset" 125
@@ -307,22 +307,22 @@
 "../../Plugins/2D/Paper2D/Content/MaskedUnlitSpriteMaterial.uasset" 306
 "../../Plugins/2D/Paper2D/Content/OpaqueUnlitSpriteMaterial.uasset" 307
 "../../../Engine/Content/Functions/Engine_MaterialFunctions02/ObjectLocalBounds.uasset" 308
-"../../../Engine/Content/Functions/Engine_MaterialFunctions02/Utility/BreakOutFloat3Components.uasset" 309
-"../../Plugins/Editor/SpeedTreeImporter/Content/SpeedTree9/UnpackInteger3.uasset" 310
-"../../Plugins/Editor/SpeedTreeImporter/Content/SpeedTree9/UnpackDirection.uasset" 311
-"../../Plugins/Editor/SpeedTreeImporter/Content/SpeedTree9/game_wind_noise.uasset" 312
-"../../../Engine/Content/Functions/Engine_MaterialFunctions02/SafeNormalize.uasset" 313
-"../../Plugins/Editor/SpeedTreeImporter/Content/SpeedTree9/SpeedTreeWindMotion.uasset" 314
-"../../Plugins/Editor/SpeedTreeImporter/Content/SpeedTree9/SpeedTreeBranchMotion.uasset" 315
-"../../../Engine/Content/Functions/Engine_MaterialFunctions02/UVs/BoundingBoxBased_0-1_UVW.uasset" 316
-"../../Plugins/Editor/SpeedTreeImporter/Content/SpeedTree9/SpeedTreeWind.uasset" 317
-"../../Plugins/Editor/SpeedTreeImporter/Content/SpeedTree9/SpeedTreeBillboard.uasset" 318
+"../../Plugins/Editor/SpeedTreeImporter/Content/SpeedTree9/SpeedTreeBillboard.uasset" 309
+"../../Plugins/Editor/SpeedTreeImporter/Content/SpeedTree9/game_wind_noise.uasset" 310
+"../../../Engine/Content/Functions/Engine_MaterialFunctions02/Utility/BreakOutFloat3Components.uasset" 311
+"../../Plugins/Editor/SpeedTreeImporter/Content/SpeedTree9/UnpackInteger3.uasset" 312
+"../../Plugins/Editor/SpeedTreeImporter/Content/SpeedTree9/UnpackDirection.uasset" 313
+"../../../Engine/Content/Functions/Engine_MaterialFunctions02/SafeNormalize.uasset" 314
+"../../Plugins/Editor/SpeedTreeImporter/Content/SpeedTree9/SpeedTreeWindMotion.uasset" 315
+"../../Plugins/Editor/SpeedTreeImporter/Content/SpeedTree9/SpeedTreeBranchMotion.uasset" 316
+"../../../Engine/Content/Functions/Engine_MaterialFunctions02/UVs/BoundingBoxBased_0-1_UVW.uasset" 317
+"../../Plugins/Editor/SpeedTreeImporter/Content/SpeedTree9/SpeedTreeWind.uasset" 318
 "../../../Engine/Content/EngineResources/DefaultTexture.uasset" 319
 "../../Plugins/Editor/SpeedTreeImporter/Content/SpeedTree9/SpeedTreeBillboardMaster.uasset" 320
 "../../Plugins/Editor/SpeedTreeImporter/Content/SpeedTree9/SpeedTreeCameraFacing.uasset" 321
 "../../Plugins/Editor/SpeedTreeImporter/Content/SpeedTree9/SpeedTreeMaster.uasset" 322
-"../../../Engine/Content/BasicShapes/Cylinder.uasset" 323
-"../../../Engine/Content/ArtTools/RenderToTexture/Materials/Debug/M_Emissive_Color.uasset" 324
+"../../../Engine/Content/ArtTools/RenderToTexture/Materials/Debug/M_Emissive_Color.uasset" 323
+"../../../Engine/Content/BasicShapes/Cylinder.uasset" 324
 "../../Plugins/Lumin/MagicLeapPassableWorld/Content/MagicLeapARPinInfoActor.uasset" 325
 "../../Plugins/Runtime/HairStrands/Content/Materials/HairCardsDefaultMaterial.uasset" 326
 "../../../Engine/Content/EngineMaterials/HairDebugColor.uasset" 327
@@ -367,36 +367,36 @@
 "C:/Users/Jose Velazquez/Documents/Unreal Projects/Capstone/Content/StylizedNatureVol2/Meshes/Props/SM_Campfire_Rocks_Lit.uasset" 366
 "C:/Users/Jose Velazquez/Documents/Unreal Projects/Capstone/Content/PolygonWestern/Materials/Mat_Background_02.uasset" 367
 "C:/Users/Jose Velazquez/Documents/Unreal Projects/Capstone/Content/PolygonWestern/Materials/Mat_Background_01.uasset" 368
-"C:/Users/Jose Velazquez/Documents/Unreal Projects/Capstone/Content/LPSDeluxe2TropicalEnvironment/LPSD2_Materials/SpecialMaterials/WaterMaterials/M_Water_Tropic.uasset" 369
-"../../../Engine/Content/Functions/Engine_MaterialFunctions01/Vectors/RotateVector.uasset" 370
-"C:/Users/Jose Velazquez/Documents/Unreal Projects/Capstone/Content/LPSDeluxe2TropicalEnvironment/LPSD2_Materials/SpecialMaterials/WindMaterials/M_Wind_Master.uasset" 371
-"C:/Users/Jose Velazquez/Documents/Unreal Projects/Capstone/Content/LPSDeluxe2TropicalEnvironment/LPSD2_Materials/SpecialMaterials/WindMaterials/MI_Wind_18.uasset" 372
-"C:/Users/Jose Velazquez/Documents/Unreal Projects/Capstone/Content/LPSDeluxe2TropicalEnvironment/LPSD2_Materials/SpecialMaterials/WindMaterials/MI_Wind_1.uasset" 373
-"C:/Users/Jose Velazquez/Documents/Unreal Projects/Capstone/Content/LPSDeluxe2TropicalEnvironment/LPSD2_Meshes/Flora/SM_PalmTree_1.uasset" 374
-"C:/Users/Jose Velazquez/Documents/Unreal Projects/Capstone/Content/LPSDeluxe2TropicalEnvironment/LPSD2_Materials/SpecialMaterials/WindMaterials/MI_Wind_11.uasset" 375
-"C:/Users/Jose Velazquez/Documents/Unreal Projects/Capstone/Content/LPSDeluxe2TropicalEnvironment/LPSD2_Materials/SpecialMaterials/WindMaterials/MI_Wind_10.uasset" 376
-"C:/Users/Jose Velazquez/Documents/Unreal Projects/Capstone/Content/LPSDeluxe2TropicalEnvironment/LPSD2_Meshes/Flora/SM_LushPatch_1.uasset" 377
-"C:/Users/Jose Velazquez/Documents/Unreal Projects/Capstone/Content/LPSDeluxe2TropicalEnvironment/LPSD2_Materials/SpecialMaterials/WindMaterials/MI_Wind_14.uasset" 378
-"C:/Users/Jose Velazquez/Documents/Unreal Projects/Capstone/Content/LPSDeluxe2TropicalEnvironment/LPSD2_Meshes/Flora/SM_LeafyCover_1.uasset" 379
-"C:/Users/Jose Velazquez/Documents/Unreal Projects/Capstone/Content/LPSDeluxe2TropicalEnvironment/LPSD2_Materials/SpecialMaterials/WindMaterials/MI_Wind_7.uasset" 380
-"C:/Users/Jose Velazquez/Documents/Unreal Projects/Capstone/Content/LPSDeluxe2TropicalEnvironment/LPSD2_Meshes/Flora/SM_CoconutPalm_1.uasset" 381
-"C:/Users/Jose Velazquez/Documents/Unreal Projects/Capstone/Content/LPSDeluxe2TropicalEnvironment/LPSD2_Materials/SpecialMaterials/WindMaterials/MI_Wind_6.uasset" 382
-"C:/Users/Jose Velazquez/Documents/Unreal Projects/Capstone/Content/LPSDeluxe2TropicalEnvironment/LPSD2_Materials/SpecialMaterials/WindMaterials/MI_Wind_5.uasset" 383
-"C:/Users/Jose Velazquez/Documents/Unreal Projects/Capstone/Content/LPSDeluxe2TropicalEnvironment/LPSD2_Meshes/Flora/SM_BirdofParadise_1.uasset" 384
-"C:/Users/Jose Velazquez/Documents/Unreal Projects/Capstone/Content/LPSDeluxe2TropicalEnvironment/LPSD2_Meshes/Flora/SM_BananaTree_1.uasset" 385
-"../../../Engine/Content/EngineMaterials/DefaultPhysicalMaterial.uasset" 386
-"../../../Engine/Content/Functions/Engine_MaterialFunctions02/Texturing/CustomRotator.uasset" 387
-"C:/Users/Jose Velazquez/Documents/Unreal Projects/Capstone/Content/LPSDeluxe2TropicalEnvironment/LPSD2_Materials/SpecialMaterials/2SidedMaterials/M_2Side_Master.uasset" 388
-"C:/Users/Jose Velazquez/Documents/Unreal Projects/Capstone/Content/LPSDeluxe2TropicalEnvironment/LPSD2_Materials/SpecialMaterials/2SidedMaterials/MI_2Side_Lime.uasset" 389
-"C:/Users/Jose Velazquez/Documents/Unreal Projects/Capstone/Content/LPSDeluxe2TropicalEnvironment/LPSD2_Materials/SpecialMaterials/2SidedMaterials/MI_2Side_TropicBlue.uasset" 390
-"C:/Users/Jose Velazquez/Documents/Unreal Projects/Capstone/Content/LPSDeluxe2TropicalEnvironment/LPSD2_Materials/SpecialMaterials/2SidedMaterials/MI_2Side_OffWhite.uasset" 391
-"C:/Users/Jose Velazquez/Documents/Unreal Projects/Capstone/Content/LPSDeluxe2TropicalEnvironment/LPSD2_Materials/SpecialMaterials/2SidedMaterials/MI_2Side_HotPink.uasset" 392
-"C:/Users/Jose Velazquez/Documents/Unreal Projects/Capstone/Content/LPSDeluxe2TropicalEnvironment/LPSD2_Materials/SpecialMaterials/2SidedMaterials/MI_2Side_Coconut.uasset" 393
-"C:/Users/Jose Velazquez/Documents/Unreal Projects/Capstone/Content/LPSDeluxe2TropicalEnvironment/LPSD2_Meshes/Tiki/SM_CoconutDrink_1.uasset" 394
-"C:/Users/Jose Velazquez/Documents/Unreal Projects/Capstone/Content/LPSDeluxe2TropicalEnvironment/LPSD2_Materials/Materials/Master_Color_Instances/MI_Color_Tawny.uasset" 395
-"C:/Users/Jose Velazquez/Documents/Unreal Projects/Capstone/Content/LPSDeluxe2TropicalEnvironment/LPSD2_Meshes/Pirate/SM_ShipBarrel_3.uasset" 396
-"C:/Users/Jose Velazquez/Documents/Unreal Projects/Capstone/Content/Characters/lambert1.uasset" 397
-"C:/Users/Jose Velazquez/Documents/Unreal Projects/Capstone/Content/Characters/Base_Model.uasset" 398
+"../../../Engine/Content/Functions/Engine_MaterialFunctions02/Texturing/CustomRotator.uasset" 369
+"C:/Users/Jose Velazquez/Documents/Unreal Projects/Capstone/Content/LPSDeluxe2TropicalEnvironment/LPSD2_Materials/SpecialMaterials/2SidedMaterials/M_2Side_Master.uasset" 370
+"C:/Users/Jose Velazquez/Documents/Unreal Projects/Capstone/Content/LPSDeluxe2TropicalEnvironment/LPSD2_Materials/SpecialMaterials/2SidedMaterials/MI_2Side_Lime.uasset" 371
+"C:/Users/Jose Velazquez/Documents/Unreal Projects/Capstone/Content/LPSDeluxe2TropicalEnvironment/LPSD2_Materials/SpecialMaterials/2SidedMaterials/MI_2Side_TropicBlue.uasset" 372
+"C:/Users/Jose Velazquez/Documents/Unreal Projects/Capstone/Content/LPSDeluxe2TropicalEnvironment/LPSD2_Materials/SpecialMaterials/2SidedMaterials/MI_2Side_OffWhite.uasset" 373
+"C:/Users/Jose Velazquez/Documents/Unreal Projects/Capstone/Content/LPSDeluxe2TropicalEnvironment/LPSD2_Materials/SpecialMaterials/2SidedMaterials/MI_2Side_HotPink.uasset" 374
+"C:/Users/Jose Velazquez/Documents/Unreal Projects/Capstone/Content/LPSDeluxe2TropicalEnvironment/LPSD2_Materials/SpecialMaterials/2SidedMaterials/MI_2Side_Coconut.uasset" 375
+"C:/Users/Jose Velazquez/Documents/Unreal Projects/Capstone/Content/LPSDeluxe2TropicalEnvironment/LPSD2_Meshes/Tiki/SM_CoconutDrink_1.uasset" 376
+"C:/Users/Jose Velazquez/Documents/Unreal Projects/Capstone/Content/LPSDeluxe2TropicalEnvironment/LPSD2_Materials/Materials/Master_Color_Instances/MI_Color_Tawny.uasset" 377
+"C:/Users/Jose Velazquez/Documents/Unreal Projects/Capstone/Content/LPSDeluxe2TropicalEnvironment/LPSD2_Meshes/Pirate/SM_ShipBarrel_3.uasset" 378
+"C:/Users/Jose Velazquez/Documents/Unreal Projects/Capstone/Content/LPSDeluxe2TropicalEnvironment/LPSD2_Materials/SpecialMaterials/WaterMaterials/M_Water_Tropic.uasset" 379
+"C:/Users/Jose Velazquez/Documents/Unreal Projects/Capstone/Content/Characters/lambert1.uasset" 380
+"C:/Users/Jose Velazquez/Documents/Unreal Projects/Capstone/Content/Characters/Base_Model.uasset" 381
+"../../../Engine/Content/Functions/Engine_MaterialFunctions01/Vectors/RotateVector.uasset" 382
+"C:/Users/Jose Velazquez/Documents/Unreal Projects/Capstone/Content/LPSDeluxe2TropicalEnvironment/LPSD2_Materials/SpecialMaterials/WindMaterials/M_Wind_Master.uasset" 383
+"C:/Users/Jose Velazquez/Documents/Unreal Projects/Capstone/Content/LPSDeluxe2TropicalEnvironment/LPSD2_Materials/SpecialMaterials/WindMaterials/MI_Wind_18.uasset" 384
+"C:/Users/Jose Velazquez/Documents/Unreal Projects/Capstone/Content/LPSDeluxe2TropicalEnvironment/LPSD2_Materials/SpecialMaterials/WindMaterials/MI_Wind_1.uasset" 385
+"C:/Users/Jose Velazquez/Documents/Unreal Projects/Capstone/Content/LPSDeluxe2TropicalEnvironment/LPSD2_Meshes/Flora/SM_PalmTree_1.uasset" 386
+"C:/Users/Jose Velazquez/Documents/Unreal Projects/Capstone/Content/LPSDeluxe2TropicalEnvironment/LPSD2_Materials/SpecialMaterials/WindMaterials/MI_Wind_11.uasset" 387
+"C:/Users/Jose Velazquez/Documents/Unreal Projects/Capstone/Content/LPSDeluxe2TropicalEnvironment/LPSD2_Materials/SpecialMaterials/WindMaterials/MI_Wind_10.uasset" 388
+"C:/Users/Jose Velazquez/Documents/Unreal Projects/Capstone/Content/LPSDeluxe2TropicalEnvironment/LPSD2_Meshes/Flora/SM_LushPatch_1.uasset" 389
+"C:/Users/Jose Velazquez/Documents/Unreal Projects/Capstone/Content/LPSDeluxe2TropicalEnvironment/LPSD2_Materials/SpecialMaterials/WindMaterials/MI_Wind_14.uasset" 390
+"C:/Users/Jose Velazquez/Documents/Unreal Projects/Capstone/Content/LPSDeluxe2TropicalEnvironment/LPSD2_Meshes/Flora/SM_LeafyCover_1.uasset" 391
+"C:/Users/Jose Velazquez/Documents/Unreal Projects/Capstone/Content/LPSDeluxe2TropicalEnvironment/LPSD2_Materials/SpecialMaterials/WindMaterials/MI_Wind_7.uasset" 392
+"C:/Users/Jose Velazquez/Documents/Unreal Projects/Capstone/Content/LPSDeluxe2TropicalEnvironment/LPSD2_Meshes/Flora/SM_CoconutPalm_1.uasset" 393
+"C:/Users/Jose Velazquez/Documents/Unreal Projects/Capstone/Content/LPSDeluxe2TropicalEnvironment/LPSD2_Materials/SpecialMaterials/WindMaterials/MI_Wind_6.uasset" 394
+"C:/Users/Jose Velazquez/Documents/Unreal Projects/Capstone/Content/LPSDeluxe2TropicalEnvironment/LPSD2_Materials/SpecialMaterials/WindMaterials/MI_Wind_5.uasset" 395
+"C:/Users/Jose Velazquez/Documents/Unreal Projects/Capstone/Content/LPSDeluxe2TropicalEnvironment/LPSD2_Meshes/Flora/SM_BirdofParadise_1.uasset" 396
+"C:/Users/Jose Velazquez/Documents/Unreal Projects/Capstone/Content/LPSDeluxe2TropicalEnvironment/LPSD2_Meshes/Flora/SM_BananaTree_1.uasset" 397
+"../../../Engine/Content/EngineMaterials/DefaultPhysicalMaterial.uasset" 398
 "C:/Users/Jose Velazquez/Documents/Unreal Projects/Capstone/Content/_Maps/Bottle-Flip.umap" 399
 "C:/Users/Jose Velazquez/Documents/Unreal Projects/Capstone/Content/_Maps/Carrera-De-Obstaculos_BuiltData.uasset" 400
 "C:/Users/Jose Velazquez/Documents/Unreal Projects/Capstone/Content/LPSDeluxe2TropicalEnvironment/LPSD2_Materials/Materials/Master_Color_Instances/MI_Color_Gray.uasset" 401
@@ -409,38 +409,38 @@
 "C:/Users/Jose Velazquez/Documents/Unreal Projects/Capstone/Content/_Blueprint/Obstacle_Course/BP_PlatformSpawner.uasset" 408
 "C:/Users/Jose Velazquez/Documents/Unreal Projects/Capstone/Content/Music/S_AmbientObstacule.uasset" 409
 "C:/Users/Jose Velazquez/Documents/Unreal Projects/Capstone/Content/Music/Cue_AmbientObstacule.uasset" 410
-"C:/Users/Jose Velazquez/Documents/Unreal Projects/Capstone/Content/LPSDeluxe2TropicalEnvironment/LPSD2_Materials/Materials/Master_Color_Instances/MI_Glow_Lava_2.uasset" 411
-"C:/Users/Jose Velazquez/Documents/Unreal Projects/Capstone/Content/LPSDeluxe2TropicalEnvironment/LPSD2_Materials/SpecialMaterials/MiscMaterials/M_LavaFlow_1.uasset" 412
-"../../../Engine/Content/Functions/Engine_MaterialFunctions01/AlphaBlend/WorldAlignedBlend.uasset" 413
-"C:/Users/Jose Velazquez/Documents/Unreal Projects/Capstone/Content/LPSDeluxe2TropicalEnvironment/LPSD2_Materials/SpecialMaterials/2ToneMaterials/MI_Mount_LightGray.uasset" 414
-"C:/Users/Jose Velazquez/Documents/Unreal Projects/Capstone/Content/LPSDeluxe2TropicalEnvironment/LPSD2_Meshes/Volcano/SM_LavaFlow_1.uasset" 415
-"C:/Users/Jose Velazquez/Documents/Unreal Projects/Capstone/Content/LPSDeluxe2TropicalEnvironment/LPSD2_Materials/Materials/Master_Color_Instances/MI_Color_Charcoal.uasset" 416
-"C:/Users/Jose Velazquez/Documents/Unreal Projects/Capstone/Content/LPSDeluxe2TropicalEnvironment/LPSD2_Meshes/Volcano/SM_LavaField_1.uasset" 417
-"C:/Users/Jose Velazquez/Documents/Unreal Projects/Capstone/Content/LPSDeluxe2TropicalEnvironment/LPSD2_Meshes/Volcano/SM_LavaCave_2.uasset" 418
-"C:/Users/Jose Velazquez/Documents/Unreal Projects/Capstone/Content/LPSDeluxe2TropicalEnvironment/LPSD2_Materials/SpecialMaterials/2ToneMaterials/MI_Mount_Volcano.uasset" 419
-"C:/Users/Jose Velazquez/Documents/Unreal Projects/Capstone/Content/LPSDeluxe2TropicalEnvironment/LPSD2_Materials/Materials/Master_Color_Instances/MI_Glow_Lava.uasset" 420
-"C:/Users/Jose Velazquez/Documents/Unreal Projects/Capstone/Content/LPSDeluxe2TropicalEnvironment/LPSD2_Meshes/Volcano/SM_LargeVolcano_1.uasset" 421
-"C:/Users/Jose Velazquez/Documents/Unreal Projects/Capstone/Content/LPSDeluxe2TropicalEnvironment/LPSD2_Materials/Materials/Master_Color_Instances/MI_Metal_Silver.uasset" 422
-"C:/Users/Jose Velazquez/Documents/Unreal Projects/Capstone/Content/LPSDeluxe2TropicalEnvironment/LPSD2_Materials/Materials/Master_Color_Instances/MI_Metal_Gold.uasset" 423
-"C:/Users/Jose Velazquez/Documents/Unreal Projects/Capstone/Content/LPSDeluxe2TropicalEnvironment/LPSD2_Materials/Materials/Master_Color_Instances/MI_Gem_Ruby.uasset" 424
-"C:/Users/Jose Velazquez/Documents/Unreal Projects/Capstone/Content/LPSDeluxe2TropicalEnvironment/LPSD2_Meshes/Treasure/SM_TreasureCrown_1.uasset" 425
-"C:/Users/Jose Velazquez/Documents/Unreal Projects/Capstone/Content/LPSDeluxe2TropicalEnvironment/LPSD2_Materials/Materials/Master_Color_Instances/MI_Metal_Brass.uasset" 426
-"C:/Users/Jose Velazquez/Documents/Unreal Projects/Capstone/Content/LPSDeluxe2TropicalEnvironment/LPSD2_Materials/Materials/Master_Color_Instances/MI_Metal_Steel.uasset" 427
-"C:/Users/Jose Velazquez/Documents/Unreal Projects/Capstone/Content/LPSDeluxe2TropicalEnvironment/LPSD2_Materials/Materials/Master_Color_Instances/MI_Gem_Emerald.uasset" 428
-"C:/Users/Jose Velazquez/Documents/Unreal Projects/Capstone/Content/LPSDeluxe2TropicalEnvironment/LPSD2_Meshes/Treasure/Sm_TreasureChalice_1.uasset" 429
-"C:/Users/Jose Velazquez/Documents/Unreal Projects/Capstone/Content/LPSDeluxe2TropicalEnvironment/LPSD2_Meshes/Treasure/SM_PirateChest_3.uasset" 430
-"C:/Users/Jose Velazquez/Documents/Unreal Projects/Capstone/Content/LPSDeluxe2TropicalEnvironment/LPSD2_Textures/T_CoinPile_N.uasset" 431
-"C:/Users/Jose Velazquez/Documents/Unreal Projects/Capstone/Content/LPSDeluxe2TropicalEnvironment/LPSD2_Textures/T_CoinPile.uasset" 432
-"C:/Users/Jose Velazquez/Documents/Unreal Projects/Capstone/Content/LPSDeluxe2TropicalEnvironment/LPSD2_Materials/SpecialMaterials/MiscMaterials/M_GoldCoin_Base2.uasset" 433
-"C:/Users/Jose Velazquez/Documents/Unreal Projects/Capstone/Content/LPSDeluxe2TropicalEnvironment/LPSD2_Materials/SpecialMaterials/MiscMaterials/M_GoldCoin_Top_2.uasset" 434
-"C:/Users/Jose Velazquez/Documents/Unreal Projects/Capstone/Content/LPSDeluxe2TropicalEnvironment/LPSD2_Meshes/Treasure/SM_Pile_2.uasset" 435
-"C:/Users/Jose Velazquez/Documents/Unreal Projects/Capstone/Content/LPSDeluxe2TropicalEnvironment/LPSD2_Materials/SpecialMaterials/MiscMaterials/M_GoldCoin_Top_1.uasset" 436
-"C:/Users/Jose Velazquez/Documents/Unreal Projects/Capstone/Content/LPSDeluxe2TropicalEnvironment/LPSD2_Materials/SpecialMaterials/MiscMaterials/M_GoldCoin_Base_1.uasset" 437
-"C:/Users/Jose Velazquez/Documents/Unreal Projects/Capstone/Content/LPSDeluxe2TropicalEnvironment/LPSD2_Meshes/Treasure/SM_Pile_1.uasset" 438
-"C:/Users/Jose Velazquez/Documents/Unreal Projects/Capstone/Content/LPSDeluxe2TropicalEnvironment/LPSD2_Meshes/Treasure/SM_MediumCoin_2.uasset" 439
-"C:/Users/Jose Velazquez/Documents/Unreal Projects/Capstone/Content/LPSDeluxe2TropicalEnvironment/LPSD2_Meshes/Treasure/SM_LargeCoin_1.uasset" 440
-"C:/Users/Jose Velazquez/Documents/Unreal Projects/Capstone/Content/LPSDeluxe2TropicalEnvironment/LPSD2_Meshes/Platform/SM_TRockColumn_1.uasset" 441
-"C:/Users/Jose Velazquez/Documents/Unreal Projects/Capstone/Content/LPSDeluxe2TropicalEnvironment/LPSD2_Meshes/Platform/SM_LavaPlatform_1.uasset" 442
+"C:/Users/Jose Velazquez/Documents/Unreal Projects/Capstone/Content/LPSDeluxe2TropicalEnvironment/LPSD2_Materials/SpecialMaterials/MiscMaterials/M_LavaFlow_1.uasset" 411
+"../../../Engine/Content/Functions/Engine_MaterialFunctions01/AlphaBlend/WorldAlignedBlend.uasset" 412
+"C:/Users/Jose Velazquez/Documents/Unreal Projects/Capstone/Content/LPSDeluxe2TropicalEnvironment/LPSD2_Materials/SpecialMaterials/2ToneMaterials/MI_Mount_LightGray.uasset" 413
+"C:/Users/Jose Velazquez/Documents/Unreal Projects/Capstone/Content/LPSDeluxe2TropicalEnvironment/LPSD2_Meshes/Volcano/SM_LavaFlow_1.uasset" 414
+"C:/Users/Jose Velazquez/Documents/Unreal Projects/Capstone/Content/LPSDeluxe2TropicalEnvironment/LPSD2_Materials/Materials/Master_Color_Instances/MI_Color_Charcoal.uasset" 415
+"C:/Users/Jose Velazquez/Documents/Unreal Projects/Capstone/Content/LPSDeluxe2TropicalEnvironment/LPSD2_Meshes/Volcano/SM_LavaField_1.uasset" 416
+"C:/Users/Jose Velazquez/Documents/Unreal Projects/Capstone/Content/LPSDeluxe2TropicalEnvironment/LPSD2_Meshes/Volcano/SM_LavaCave_2.uasset" 417
+"C:/Users/Jose Velazquez/Documents/Unreal Projects/Capstone/Content/LPSDeluxe2TropicalEnvironment/LPSD2_Materials/SpecialMaterials/2ToneMaterials/MI_Mount_Volcano.uasset" 418
+"C:/Users/Jose Velazquez/Documents/Unreal Projects/Capstone/Content/LPSDeluxe2TropicalEnvironment/LPSD2_Materials/Materials/Master_Color_Instances/MI_Glow_Lava.uasset" 419
+"C:/Users/Jose Velazquez/Documents/Unreal Projects/Capstone/Content/LPSDeluxe2TropicalEnvironment/LPSD2_Meshes/Volcano/SM_LargeVolcano_1.uasset" 420
+"C:/Users/Jose Velazquez/Documents/Unreal Projects/Capstone/Content/LPSDeluxe2TropicalEnvironment/LPSD2_Materials/Materials/Master_Color_Instances/MI_Metal_Silver.uasset" 421
+"C:/Users/Jose Velazquez/Documents/Unreal Projects/Capstone/Content/LPSDeluxe2TropicalEnvironment/LPSD2_Materials/Materials/Master_Color_Instances/MI_Metal_Gold.uasset" 422
+"C:/Users/Jose Velazquez/Documents/Unreal Projects/Capstone/Content/LPSDeluxe2TropicalEnvironment/LPSD2_Materials/Materials/Master_Color_Instances/MI_Gem_Ruby.uasset" 423
+"C:/Users/Jose Velazquez/Documents/Unreal Projects/Capstone/Content/LPSDeluxe2TropicalEnvironment/LPSD2_Meshes/Treasure/SM_TreasureCrown_1.uasset" 424
+"C:/Users/Jose Velazquez/Documents/Unreal Projects/Capstone/Content/LPSDeluxe2TropicalEnvironment/LPSD2_Materials/Materials/Master_Color_Instances/MI_Metal_Brass.uasset" 425
+"C:/Users/Jose Velazquez/Documents/Unreal Projects/Capstone/Content/LPSDeluxe2TropicalEnvironment/LPSD2_Materials/Materials/Master_Color_Instances/MI_Metal_Steel.uasset" 426
+"C:/Users/Jose Velazquez/Documents/Unreal Projects/Capstone/Content/LPSDeluxe2TropicalEnvironment/LPSD2_Materials/Materials/Master_Color_Instances/MI_Gem_Emerald.uasset" 427
+"C:/Users/Jose Velazquez/Documents/Unreal Projects/Capstone/Content/LPSDeluxe2TropicalEnvironment/LPSD2_Meshes/Treasure/Sm_TreasureChalice_1.uasset" 428
+"C:/Users/Jose Velazquez/Documents/Unreal Projects/Capstone/Content/LPSDeluxe2TropicalEnvironment/LPSD2_Meshes/Treasure/SM_PirateChest_3.uasset" 429
+"C:/Users/Jose Velazquez/Documents/Unreal Projects/Capstone/Content/LPSDeluxe2TropicalEnvironment/LPSD2_Textures/T_CoinPile_N.uasset" 430
+"C:/Users/Jose Velazquez/Documents/Unreal Projects/Capstone/Content/LPSDeluxe2TropicalEnvironment/LPSD2_Textures/T_CoinPile.uasset" 431
+"C:/Users/Jose Velazquez/Documents/Unreal Projects/Capstone/Content/LPSDeluxe2TropicalEnvironment/LPSD2_Materials/SpecialMaterials/MiscMaterials/M_GoldCoin_Base2.uasset" 432
+"C:/Users/Jose Velazquez/Documents/Unreal Projects/Capstone/Content/LPSDeluxe2TropicalEnvironment/LPSD2_Materials/SpecialMaterials/MiscMaterials/M_GoldCoin_Top_2.uasset" 433
+"C:/Users/Jose Velazquez/Documents/Unreal Projects/Capstone/Content/LPSDeluxe2TropicalEnvironment/LPSD2_Meshes/Treasure/SM_Pile_2.uasset" 434
+"C:/Users/Jose Velazquez/Documents/Unreal Projects/Capstone/Content/LPSDeluxe2TropicalEnvironment/LPSD2_Materials/SpecialMaterials/MiscMaterials/M_GoldCoin_Top_1.uasset" 435
+"C:/Users/Jose Velazquez/Documents/Unreal Projects/Capstone/Content/LPSDeluxe2TropicalEnvironment/LPSD2_Materials/SpecialMaterials/MiscMaterials/M_GoldCoin_Base_1.uasset" 436
+"C:/Users/Jose Velazquez/Documents/Unreal Projects/Capstone/Content/LPSDeluxe2TropicalEnvironment/LPSD2_Meshes/Treasure/SM_Pile_1.uasset" 437
+"C:/Users/Jose Velazquez/Documents/Unreal Projects/Capstone/Content/LPSDeluxe2TropicalEnvironment/LPSD2_Meshes/Treasure/SM_MediumCoin_2.uasset" 438
+"C:/Users/Jose Velazquez/Documents/Unreal Projects/Capstone/Content/LPSDeluxe2TropicalEnvironment/LPSD2_Meshes/Treasure/SM_LargeCoin_1.uasset" 439
+"C:/Users/Jose Velazquez/Documents/Unreal Projects/Capstone/Content/LPSDeluxe2TropicalEnvironment/LPSD2_Meshes/Platform/SM_TRockColumn_1.uasset" 440
+"C:/Users/Jose Velazquez/Documents/Unreal Projects/Capstone/Content/LPSDeluxe2TropicalEnvironment/LPSD2_Meshes/Platform/SM_LavaPlatform_1.uasset" 441
+"C:/Users/Jose Velazquez/Documents/Unreal Projects/Capstone/Content/LPSDeluxe2TropicalEnvironment/LPSD2_Materials/Materials/Master_Color_Instances/MI_Glow_Lava_2.uasset" 442
 "C:/Users/Jose Velazquez/Documents/Unreal Projects/Capstone/Content/_Maps/Carrera-De-Obstaculos.umap" 443
 "C:/Users/Jose Velazquez/Documents/Unreal Projects/Capstone/Content/_Maps/Map_BuiltData.uasset" 444
 "C:/Users/Jose Velazquez/Documents/Unreal Projects/Capstone/Content/Assets/Japenese_Entrance/Textures/Japenese_Entrance_Japenese_Entrance_OcclusionRoughnessMetallic.uasset" 445
@@ -450,11 +450,11 @@
 "C:/Users/Jose Velazquez/Documents/Unreal Projects/Capstone/Content/Assets/Japenese_Entrance/Japenese_Entrance.uasset" 449
 "C:/Users/Jose Velazquez/Documents/Unreal Projects/Capstone/Content/_Maps/Map.umap" 450
 "C:/Users/Jose Velazquez/Documents/Unreal Projects/Capstone/Content/_Maps/Menu_BuiltData.uasset" 451
-"C:/Users/Jose Velazquez/Documents/Unreal Projects/Capstone/Content/UI/UI_Art/HighresScreenshot00001.uasset" 452
-"C:/Users/Jose Velazquez/Documents/Unreal Projects/Capstone/Content/UI/UI_Art/HighresScreenshot00003.uasset" 453
-"C:/Users/Jose Velazquez/Documents/Unreal Projects/Capstone/Content/_Blueprint/_Menu/WBP_MenuJoin.uasset" 454
-"C:/Users/Jose Velazquez/Documents/Unreal Projects/Capstone/Content/UI/UI_Art/HighresScreenshot00004.uasset" 455
-"C:/Users/Jose Velazquez/Documents/Unreal Projects/Capstone/Content/_Blueprint/_Menu/WBP_MenuHost.uasset" 456
+"C:/Users/Jose Velazquez/Documents/Unreal Projects/Capstone/Content/UI/UI_Art/HighresScreenshot00003.uasset" 452
+"C:/Users/Jose Velazquez/Documents/Unreal Projects/Capstone/Content/_Blueprint/_Menu/WBP_MenuJoin.uasset" 453
+"C:/Users/Jose Velazquez/Documents/Unreal Projects/Capstone/Content/UI/UI_Art/HighresScreenshot00004.uasset" 454
+"C:/Users/Jose Velazquez/Documents/Unreal Projects/Capstone/Content/_Blueprint/_Menu/WBP_MenuHost.uasset" 455
+"C:/Users/Jose Velazquez/Documents/Unreal Projects/Capstone/Content/UI/UI_Art/HighresScreenshot00001.uasset" 456
 "C:/Users/Jose Velazquez/Documents/Unreal Projects/Capstone/Content/_Blueprint/_Menu/WBP_MenuPrincipal.uasset" 457
 "C:/Users/Jose Velazquez/Documents/Unreal Projects/Capstone/Content/Music/S_Menu.uasset" 458
 "C:/Users/Jose Velazquez/Documents/Unreal Projects/Capstone/Content/Music/Menu_musica_CurrentA_Cue.uasset" 459
@@ -467,35 +467,35 @@
 "C:/Users/Jose Velazquez/Documents/Unreal Projects/Capstone/Content/AnimatedPondFish/Environment/Materials/M_fish_bridge.uasset" 466
 "C:/Users/Jose Velazquez/Documents/Unreal Projects/Capstone/Content/AnimatedPondFish/Environment/Meshes/SM_Bridge.uasset" 467
 "C:/Users/Jose Velazquez/Documents/Unreal Projects/Capstone/Content/AnimatedPondFish/Environment/Blueprints/BP_Bridge.uasset" 468
-"C:/Users/Jose Velazquez/Documents/Unreal Projects/Capstone/Content/StylizedNatureVol2/Textures/Water/T_Waterfall_Directional_Noise.uasset" 469
-"C:/Users/Jose Velazquez/Documents/Unreal Projects/Capstone/Content/StylizedNatureVol2/Materials/Water/M_WaterfallVolumetric.uasset" 470
-"C:/Users/Jose Velazquez/Documents/Unreal Projects/Capstone/Content/StylizedNatureVol2/Materials/Water/MI_WaterfallVolumetric_01.uasset" 471
-"C:/Users/Jose Velazquez/Documents/Unreal Projects/Capstone/Content/StylizedNatureVol2/Textures/Utility/T_Perlin_Noise.uasset" 472
-"C:/Users/Jose Velazquez/Documents/Unreal Projects/Capstone/Content/StylizedNatureVol2/Materials/Water/M_WaterfallFoam.uasset" 473
-"C:/Users/Jose Velazquez/Documents/Unreal Projects/Capstone/Content/StylizedNatureVol2/Materials/Water/MI_WaterfallFoam_Variation.uasset" 474
-"C:/Users/Jose Velazquez/Documents/Unreal Projects/Capstone/Content/StylizedNatureVol2/Materials/Water/MI_WaterfallFoam_Main.uasset" 475
-"C:/Users/Jose Velazquez/Documents/Unreal Projects/Capstone/Content/StylizedNatureVol2/Textures/Water/T_Waves_Noise.uasset" 476
-"C:/Users/Jose Velazquez/Documents/Unreal Projects/Capstone/Content/StylizedNatureVol2/Textures/Water/T_WaveLarge_N.uasset" 477
-"C:/Users/Jose Velazquez/Documents/Unreal Projects/Capstone/Content/StylizedNatureVol2/Textures/Utility/T_Noise_Clouds_01.uasset" 478
-"../../../Engine/Content/Functions/Engine_MaterialFunctions01/Texturing/FlattenNormal.uasset" 479
-"C:/Users/Jose Velazquez/Documents/Unreal Projects/Capstone/Content/StylizedNatureVol2/Materials/Water/M_Water_Moving.uasset" 480
-"C:/Users/Jose Velazquez/Documents/Unreal Projects/Capstone/Content/StylizedNatureVol2/Materials/Water/MI_Waterfall.uasset" 481
-"C:/Users/Jose Velazquez/Documents/Unreal Projects/Capstone/Content/StylizedNatureVol2/Materials/Water/MI_Water_River.uasset" 482
-"C:/Users/Jose Velazquez/Documents/Unreal Projects/Capstone/Content/AnimatedPondFish/Environment/Textures/T_fish_plants_BC.uasset" 483
-"C:/Users/Jose Velazquez/Documents/Unreal Projects/Capstone/Content/AnimatedPondFish/Environment/Materials/M_fish_plants.uasset" 484
+"C:/Users/Jose Velazquez/Documents/Unreal Projects/Capstone/Content/AnimatedPondFish/Environment/Textures/T_fish_plants_BC.uasset" 469
+"C:/Users/Jose Velazquez/Documents/Unreal Projects/Capstone/Content/AnimatedPondFish/Environment/Materials/M_fish_plants.uasset" 470
+"C:/Users/Jose Velazquez/Documents/Unreal Projects/Capstone/Content/StylizedNatureVol2/Textures/Water/T_Waterfall_Directional_Noise.uasset" 471
+"C:/Users/Jose Velazquez/Documents/Unreal Projects/Capstone/Content/StylizedNatureVol2/Materials/Water/M_WaterfallVolumetric.uasset" 472
+"C:/Users/Jose Velazquez/Documents/Unreal Projects/Capstone/Content/StylizedNatureVol2/Materials/Water/MI_WaterfallVolumetric_01.uasset" 473
+"C:/Users/Jose Velazquez/Documents/Unreal Projects/Capstone/Content/StylizedNatureVol2/Textures/Utility/T_Perlin_Noise.uasset" 474
+"C:/Users/Jose Velazquez/Documents/Unreal Projects/Capstone/Content/StylizedNatureVol2/Materials/Water/M_WaterfallFoam.uasset" 475
+"C:/Users/Jose Velazquez/Documents/Unreal Projects/Capstone/Content/StylizedNatureVol2/Materials/Water/MI_WaterfallFoam_Variation.uasset" 476
+"C:/Users/Jose Velazquez/Documents/Unreal Projects/Capstone/Content/StylizedNatureVol2/Materials/Water/MI_WaterfallFoam_Main.uasset" 477
+"C:/Users/Jose Velazquez/Documents/Unreal Projects/Capstone/Content/StylizedNatureVol2/Textures/Water/T_Waves_Noise.uasset" 478
+"C:/Users/Jose Velazquez/Documents/Unreal Projects/Capstone/Content/StylizedNatureVol2/Textures/Water/T_WaveLarge_N.uasset" 479
+"C:/Users/Jose Velazquez/Documents/Unreal Projects/Capstone/Content/StylizedNatureVol2/Textures/Utility/T_Noise_Clouds_01.uasset" 480
+"../../../Engine/Content/Functions/Engine_MaterialFunctions01/Texturing/FlattenNormal.uasset" 481
+"C:/Users/Jose Velazquez/Documents/Unreal Projects/Capstone/Content/StylizedNatureVol2/Materials/Water/M_Water_Moving.uasset" 482
+"C:/Users/Jose Velazquez/Documents/Unreal Projects/Capstone/Content/StylizedNatureVol2/Materials/Water/MI_Waterfall.uasset" 483
+"C:/Users/Jose Velazquez/Documents/Unreal Projects/Capstone/Content/StylizedNatureVol2/Materials/Water/MI_Water_River.uasset" 484
 "C:/Users/Jose Velazquez/Documents/Unreal Projects/Capstone/Content/MergeActor/WaterFall.uasset" 485
 "C:/Users/Jose Velazquez/Documents/Unreal Projects/Capstone/Content/StylizedNatureVol2/Textures/Terrain/T_Terrain_01_R.uasset" 486
-"C:/Users/Jose Velazquez/Documents/Unreal Projects/Capstone/Content/StylizedNatureVol2/Textures/Utility/T_MacroVariation.uasset" 487
-"C:/Users/Jose Velazquez/Documents/Unreal Projects/Capstone/Content/StylizedNatureVol2/Textures/Terrain/T_DirtGround_R.uasset" 488
-"C:/Users/Jose Velazquez/Documents/Unreal Projects/Capstone/Content/StylizedNatureVol2/Textures/Terrain/T_DirtGround_N.uasset" 489
-"C:/Users/Jose Velazquez/Documents/Unreal Projects/Capstone/Content/StylizedNatureVol2/Textures/Terrain/T_DirtGround_C.uasset" 490
-"C:/Users/Jose Velazquez/Documents/Unreal Projects/Capstone/Content/StylizedNatureVol2/Textures/Terrain/T_Terrain_01_N.uasset" 491
-"C:/Users/Jose Velazquez/Documents/Unreal Projects/Capstone/Content/StylizedNatureVol2/Textures/Terrain/T_StoneGround_R.uasset" 492
-"C:/Users/Jose Velazquez/Documents/Unreal Projects/Capstone/Content/StylizedNatureVol2/Textures/Terrain/T_StoneGround_N.uasset" 493
-"C:/Users/Jose Velazquez/Documents/Unreal Projects/Capstone/Content/StylizedNatureVol2/Textures/Terrain/T_StoneGround_C.uasset" 494
-"C:/Users/Jose Velazquez/Documents/Unreal Projects/Capstone/Content/StylizedNatureVol2/Textures/Terrain/T_Grass_Ground_R.uasset" 495
-"C:/Users/Jose Velazquez/Documents/Unreal Projects/Capstone/Content/StylizedNatureVol2/Textures/Terrain/T_Grass_Ground_N.uasset" 496
-"C:/Users/Jose Velazquez/Documents/Unreal Projects/Capstone/Content/StylizedNatureVol2/Textures/Terrain/T_Grass_Ground_C.uasset" 497
+"C:/Users/Jose Velazquez/Documents/Unreal Projects/Capstone/Content/StylizedNatureVol2/Textures/Terrain/T_StoneGround_R.uasset" 487
+"C:/Users/Jose Velazquez/Documents/Unreal Projects/Capstone/Content/StylizedNatureVol2/Textures/Terrain/T_StoneGround_N.uasset" 488
+"C:/Users/Jose Velazquez/Documents/Unreal Projects/Capstone/Content/StylizedNatureVol2/Textures/Terrain/T_StoneGround_C.uasset" 489
+"C:/Users/Jose Velazquez/Documents/Unreal Projects/Capstone/Content/StylizedNatureVol2/Textures/Terrain/T_Grass_Ground_R.uasset" 490
+"C:/Users/Jose Velazquez/Documents/Unreal Projects/Capstone/Content/StylizedNatureVol2/Textures/Terrain/T_Grass_Ground_N.uasset" 491
+"C:/Users/Jose Velazquez/Documents/Unreal Projects/Capstone/Content/StylizedNatureVol2/Textures/Terrain/T_Grass_Ground_C.uasset" 492
+"C:/Users/Jose Velazquez/Documents/Unreal Projects/Capstone/Content/StylizedNatureVol2/Textures/Utility/T_MacroVariation.uasset" 493
+"C:/Users/Jose Velazquez/Documents/Unreal Projects/Capstone/Content/StylizedNatureVol2/Textures/Terrain/T_DirtGround_R.uasset" 494
+"C:/Users/Jose Velazquez/Documents/Unreal Projects/Capstone/Content/StylizedNatureVol2/Textures/Terrain/T_DirtGround_N.uasset" 495
+"C:/Users/Jose Velazquez/Documents/Unreal Projects/Capstone/Content/StylizedNatureVol2/Textures/Terrain/T_DirtGround_C.uasset" 496
+"C:/Users/Jose Velazquez/Documents/Unreal Projects/Capstone/Content/StylizedNatureVol2/Textures/Terrain/T_Terrain_01_N.uasset" 497
 "../../../Engine/Content/Functions/Engine_MaterialFunctions02/Utility/BlendAngleCorrectedNormals.uasset" 498
 "C:/Users/Jose Velazquez/Documents/Unreal Projects/Capstone/Content/StylizedNatureVol2/Materials/Terrain/M_Terrain_Prop.uasset" 499
 "C:/Users/Jose Velazquez/Documents/Unreal Projects/Capstone/Content/StylizedNatureVol2/Materials/Terrain/MI_Terrain_Overlay_01.uasset" 500
@@ -549,36 +549,36 @@
 "C:/Users/Jose Velazquez/Documents/Unreal Projects/Capstone/Content/StylizedNatureVol2/Textures/Foliage/T_Flower_New_02.uasset" 548
 "C:/Users/Jose Velazquez/Documents/Unreal Projects/Capstone/Content/StylizedNatureVol2/Materials/Foliage/MI_Flower_02.uasset" 549
 "C:/Users/Jose Velazquez/Documents/Unreal Projects/Capstone/Content/StylizedNatureVol2/Meshes/Foliage/SM_Flowers_04.uasset" 550
-"C:/Users/Jose Velazquez/Documents/Unreal Projects/Capstone/Content/StylizedNatureVol2/Materials/Impostors/ImpostorLODs/T_Impostor_Tree_Large_01_Normal.uasset" 551
-"C:/Users/Jose Velazquez/Documents/Unreal Projects/Capstone/Content/StylizedNatureVol2/Materials/Impostors/ImpostorLODs/T_Impostor_Tree_Large_01_BaseColor.uasset" 552
-"../../../Engine/Content/EngineVolumetrics/Fogsheet/Materials/T_EV_BlankWhite_01.uasset" 553
-"../../../Engine/Content/Functions/Engine_MaterialFunctions02/Math/CreateThirdOrthogonalVector.uasset" 554
-"C:/Users/Jose Velazquez/Documents/Unreal Projects/Capstone/Content/StylizedNatureVol2/Materials/Impostors/MaterialFunctions/VirtualPlaneCoordinates_Imposter.uasset" 555
-"C:/Users/Jose Velazquez/Documents/Unreal Projects/Capstone/Content/StylizedNatureVol2/Materials/Impostors/MaterialFunctions/UnitVectorToHemiOctahedra.uasset" 556
-"C:/Users/Jose Velazquez/Documents/Unreal Projects/Capstone/Content/StylizedNatureVol2/Materials/Impostors/MaterialFunctions/TriangulatedWireframe.uasset" 557
-"C:/Users/Jose Velazquez/Documents/Unreal Projects/Capstone/Content/StylizedNatureVol2/Materials/Impostors/MaterialFunctions/TriangleInterpolator.uasset" 558
-"../../../Engine/Content/Functions/Engine_MaterialFunctions02/Utility/VectorLength.uasset" 559
-"../../../Engine/Content/Functions/Engine_MaterialFunctions02/WorldPositionOffset/ObjectScale.uasset" 560
-"C:/Users/Jose Velazquez/Documents/Unreal Projects/Capstone/Content/StylizedNatureVol2/Materials/Impostors/MaterialFunctions/ImpostorInfo.uasset" 561
-"C:/Users/Jose Velazquez/Documents/Unreal Projects/Capstone/Content/StylizedNatureVol2/Materials/Impostors/MaterialFunctions/HemiOctahedronToUnitVector.uasset" 562
-"../../../Engine/Content/Functions/Engine_MaterialFunctions01/Vectors/UnitVectorToOctahedron.uasset" 563
-"../../../Engine/Content/Functions/Engine_MaterialFunctions01/Vectors/OctahedronToUnitVector.uasset" 564
-"C:/Users/Jose Velazquez/Documents/Unreal Projects/Capstone/Content/StylizedNatureVol2/Materials/Impostors/MaterialFunctions/ImpostorGridToVector.uasset" 565
-"C:/Users/Jose Velazquez/Documents/Unreal Projects/Capstone/Content/StylizedNatureVol2/Materials/Impostors/MaterialFunctions/ImposterSpriteProjection.uasset" 566
-"C:/Users/Jose Velazquez/Documents/Unreal Projects/Capstone/Content/StylizedNatureVol2/Materials/Impostors/MaterialFunctions/ImposterFrameTransform_Setup.uasset" 567
-"../../../Engine/Content/Functions/Engine_MaterialFunctions02/Math/InverseTransformMatrix.uasset" 568
-"C:/Users/Jose Velazquez/Documents/Unreal Projects/Capstone/Content/StylizedNatureVol2/Materials/Impostors/MaterialFunctions/ImposterFrameTransform.uasset" 569
-"C:/Users/Jose Velazquez/Documents/Unreal Projects/Capstone/Content/StylizedNatureVol2/Materials/Impostors/MaterialFunctions/FrameBlendWeights.uasset" 570
-"C:/Users/Jose Velazquez/Documents/Unreal Projects/Capstone/Content/StylizedNatureVol2/Materials/Impostors/MaterialFunctions/FrameBlendWeights_TextureObject.uasset" 571
-"../../../Engine/Content/Functions/Engine_MaterialFunctions02/ExampleContent/Textures/DebugNumberPeriod.uasset" 572
-"../../../Engine/Content/Functions/Engine_MaterialFunctions02/ExampleContent/DebugNumberStrip.uasset" 573
-"../../../Engine/Content/Functions/Engine_MaterialFunctions01/Texturing/TextureCropping.uasset" 574
-"../../../Engine/Content/Functions/Engine_MaterialFunctions01/Texturing/ComputeMipLevel.uasset" 575
-"../../../Engine/Content/Functions/Engine_MaterialFunctions02/Utility/DebugScalarValues.uasset" 576
-"../../../Engine/Content/Functions/Engine_MaterialFunctions02/Utility/DebugFloat2Values.uasset" 577
-"../../../Engine/Content/Functions/Engine_MaterialFunctions01/Texturing/ScaleUVsByCenter.uasset" 578
-"C:/Users/Jose Velazquez/Documents/Unreal Projects/Capstone/Content/StylizedNatureVol2/Materials/Impostors/MaterialFunctions/MF_Impostor_ThreeFrameBlend.uasset" 579
-"C:/Users/Jose Velazquez/Documents/Unreal Projects/Capstone/Content/StylizedNatureVol2/Materials/Impostors/M_Impostor_Master.uasset" 580
+"../../../Engine/Content/Functions/Engine_MaterialFunctions02/ExampleContent/Textures/DebugNumberPeriod.uasset" 551
+"../../../Engine/Content/Functions/Engine_MaterialFunctions02/ExampleContent/DebugNumberStrip.uasset" 552
+"../../../Engine/Content/Functions/Engine_MaterialFunctions01/Texturing/TextureCropping.uasset" 553
+"../../../Engine/Content/Functions/Engine_MaterialFunctions01/Texturing/ComputeMipLevel.uasset" 554
+"../../../Engine/Content/Functions/Engine_MaterialFunctions02/Utility/DebugScalarValues.uasset" 555
+"../../../Engine/Content/Functions/Engine_MaterialFunctions02/Utility/DebugFloat2Values.uasset" 556
+"../../../Engine/Content/Functions/Engine_MaterialFunctions02/Math/InverseTransformMatrix.uasset" 557
+"../../../Engine/Content/Functions/Engine_MaterialFunctions02/Math/CreateThirdOrthogonalVector.uasset" 558
+"../../../Engine/Content/Functions/Engine_MaterialFunctions01/Vectors/UnitVectorToOctahedron.uasset" 559
+"../../../Engine/Content/Functions/Engine_MaterialFunctions01/Vectors/OctahedronToUnitVector.uasset" 560
+"../../../Engine/Content/Functions/Engine_MaterialFunctions01/Texturing/ScaleUVsByCenter.uasset" 561
+"../../../Engine/Content/EngineVolumetrics/Fogsheet/Materials/T_EV_BlankWhite_01.uasset" 562
+"C:/Users/Jose Velazquez/Documents/Unreal Projects/Capstone/Content/StylizedNatureVol2/Materials/Impostors/MaterialFunctions/VirtualPlaneCoordinates_Imposter.uasset" 563
+"C:/Users/Jose Velazquez/Documents/Unreal Projects/Capstone/Content/StylizedNatureVol2/Materials/Impostors/MaterialFunctions/UnitVectorToHemiOctahedra.uasset" 564
+"C:/Users/Jose Velazquez/Documents/Unreal Projects/Capstone/Content/StylizedNatureVol2/Materials/Impostors/MaterialFunctions/TriangulatedWireframe.uasset" 565
+"C:/Users/Jose Velazquez/Documents/Unreal Projects/Capstone/Content/StylizedNatureVol2/Materials/Impostors/MaterialFunctions/TriangleInterpolator.uasset" 566
+"../../../Engine/Content/Functions/Engine_MaterialFunctions02/Utility/VectorLength.uasset" 567
+"../../../Engine/Content/Functions/Engine_MaterialFunctions02/WorldPositionOffset/ObjectScale.uasset" 568
+"C:/Users/Jose Velazquez/Documents/Unreal Projects/Capstone/Content/StylizedNatureVol2/Materials/Impostors/MaterialFunctions/ImpostorInfo.uasset" 569
+"C:/Users/Jose Velazquez/Documents/Unreal Projects/Capstone/Content/StylizedNatureVol2/Materials/Impostors/MaterialFunctions/HemiOctahedronToUnitVector.uasset" 570
+"C:/Users/Jose Velazquez/Documents/Unreal Projects/Capstone/Content/StylizedNatureVol2/Materials/Impostors/MaterialFunctions/ImpostorGridToVector.uasset" 571
+"C:/Users/Jose Velazquez/Documents/Unreal Projects/Capstone/Content/StylizedNatureVol2/Materials/Impostors/MaterialFunctions/ImposterSpriteProjection.uasset" 572
+"C:/Users/Jose Velazquez/Documents/Unreal Projects/Capstone/Content/StylizedNatureVol2/Materials/Impostors/MaterialFunctions/ImposterFrameTransform_Setup.uasset" 573
+"C:/Users/Jose Velazquez/Documents/Unreal Projects/Capstone/Content/StylizedNatureVol2/Materials/Impostors/MaterialFunctions/ImposterFrameTransform.uasset" 574
+"C:/Users/Jose Velazquez/Documents/Unreal Projects/Capstone/Content/StylizedNatureVol2/Materials/Impostors/MaterialFunctions/FrameBlendWeights.uasset" 575
+"C:/Users/Jose Velazquez/Documents/Unreal Projects/Capstone/Content/StylizedNatureVol2/Materials/Impostors/MaterialFunctions/FrameBlendWeights_TextureObject.uasset" 576
+"C:/Users/Jose Velazquez/Documents/Unreal Projects/Capstone/Content/StylizedNatureVol2/Materials/Impostors/MaterialFunctions/MF_Impostor_ThreeFrameBlend.uasset" 577
+"C:/Users/Jose Velazquez/Documents/Unreal Projects/Capstone/Content/StylizedNatureVol2/Materials/Impostors/M_Impostor_Master.uasset" 578
+"C:/Users/Jose Velazquez/Documents/Unreal Projects/Capstone/Content/StylizedNatureVol2/Materials/Impostors/ImpostorLODs/T_Impostor_Tree_Large_01_Normal.uasset" 579
+"C:/Users/Jose Velazquez/Documents/Unreal Projects/Capstone/Content/StylizedNatureVol2/Materials/Impostors/ImpostorLODs/T_Impostor_Tree_Large_01_BaseColor.uasset" 580
 "C:/Users/Jose Velazquez/Documents/Unreal Projects/Capstone/Content/StylizedNatureVol2/Materials/Impostors/ImpostorLODs/MI_Impostor_Tree_Large_01.uasset" 581
 "C:/Users/Jose Velazquez/Documents/Unreal Projects/Capstone/Content/StylizedNatureVol2/Textures/Foliage/T_LeavesTree.uasset" 582
 "C:/Users/Jose Velazquez/Documents/Unreal Projects/Capstone/Content/StylizedNatureVol2/Textures/Foliage/T_LeavesBushes.uasset" 583
@@ -608,16 +608,16 @@
 "C:/Users/Jose Velazquez/Documents/Unreal Projects/Capstone/Content/MergeActor/Water.uasset" 607
 "C:/Users/Jose Velazquez/Documents/Unreal Projects/Capstone/Content/AnimatedPondFish/Environment/Textures/T_stones_BC.uasset" 608
 "C:/Users/Jose Velazquez/Documents/Unreal Projects/Capstone/Content/AnimatedPondFish/Environment/Materials/M_stones.uasset" 609
-"C:/Users/Jose Velazquez/Documents/Unreal Projects/Capstone/Content/stylized_env_moutain_ruins/Textures/extras/t_rock_brown.uasset" 610
-"C:/Users/Jose Velazquez/Documents/Unreal Projects/Capstone/Content/stylized_env_moutain_ruins/Textures/extras/n_rock_brown.uasset" 611
-"C:/Users/Jose Velazquez/Documents/Unreal Projects/Capstone/Content/stylized_env_moutain_ruins/Textures/sm_rock_01/t_rock_01.uasset" 612
-"C:/Users/Jose Velazquez/Documents/Unreal Projects/Capstone/Content/stylized_env_moutain_ruins/Textures/sm_rock_01/r_rock_01.uasset" 613
-"C:/Users/Jose Velazquez/Documents/Unreal Projects/Capstone/Content/stylized_env_moutain_ruins/Textures/sm_rock_01/n_rock_01.uasset" 614
-"C:/Users/Jose Velazquez/Documents/Unreal Projects/Capstone/Content/stylized_env_moutain_ruins/Textures/extras/n_grass_01.uasset" 615
-"C:/Users/Jose Velazquez/Documents/Unreal Projects/Capstone/Content/stylized_env_moutain_ruins/Materials/rocks/m_master_rock.uasset" 616
-"C:/Users/Jose Velazquez/Documents/Unreal Projects/Capstone/Content/stylized_env_moutain_ruins/Textures/sm_rock_statue_01/t_statue_01.uasset" 617
-"C:/Users/Jose Velazquez/Documents/Unreal Projects/Capstone/Content/stylized_env_moutain_ruins/Textures/sm_rock_statue_01/r_statue_01.uasset" 618
-"C:/Users/Jose Velazquez/Documents/Unreal Projects/Capstone/Content/stylized_env_moutain_ruins/Textures/sm_rock_statue_01/n_statue_01.uasset" 619
+"C:/Users/Jose Velazquez/Documents/Unreal Projects/Capstone/Content/stylized_env_moutain_ruins/Textures/sm_rock_statue_01/t_statue_01.uasset" 610
+"C:/Users/Jose Velazquez/Documents/Unreal Projects/Capstone/Content/stylized_env_moutain_ruins/Textures/sm_rock_statue_01/r_statue_01.uasset" 611
+"C:/Users/Jose Velazquez/Documents/Unreal Projects/Capstone/Content/stylized_env_moutain_ruins/Textures/sm_rock_statue_01/n_statue_01.uasset" 612
+"C:/Users/Jose Velazquez/Documents/Unreal Projects/Capstone/Content/stylized_env_moutain_ruins/Textures/extras/t_rock_brown.uasset" 613
+"C:/Users/Jose Velazquez/Documents/Unreal Projects/Capstone/Content/stylized_env_moutain_ruins/Textures/extras/n_rock_brown.uasset" 614
+"C:/Users/Jose Velazquez/Documents/Unreal Projects/Capstone/Content/stylized_env_moutain_ruins/Textures/sm_rock_01/t_rock_01.uasset" 615
+"C:/Users/Jose Velazquez/Documents/Unreal Projects/Capstone/Content/stylized_env_moutain_ruins/Textures/sm_rock_01/r_rock_01.uasset" 616
+"C:/Users/Jose Velazquez/Documents/Unreal Projects/Capstone/Content/stylized_env_moutain_ruins/Textures/sm_rock_01/n_rock_01.uasset" 617
+"C:/Users/Jose Velazquez/Documents/Unreal Projects/Capstone/Content/stylized_env_moutain_ruins/Textures/extras/n_grass_01.uasset" 618
+"C:/Users/Jose Velazquez/Documents/Unreal Projects/Capstone/Content/stylized_env_moutain_ruins/Materials/rocks/m_master_rock.uasset" 619
 "C:/Users/Jose Velazquez/Documents/Unreal Projects/Capstone/Content/stylized_env_moutain_ruins/Materials/rocks/mi_rock_statue_01.uasset" 620
 "C:/Users/Jose Velazquez/Documents/Unreal Projects/Capstone/Content/stylized_env_moutain_ruins/Textures/sm_rock_10/t_rock_10.uasset" 621
 "C:/Users/Jose Velazquez/Documents/Unreal Projects/Capstone/Content/stylized_env_moutain_ruins/Textures/sm_rock_10/r_rock_10.uasset" 622
@@ -780,24 +780,24 @@
 "C:/Users/Jose Velazquez/Documents/Unreal Projects/Capstone/Content/LPSDeluxe2TropicalEnvironment/LPSD2_Textures/T_WoodPlank_N.uasset" 779
 "C:/Users/Jose Velazquez/Documents/Unreal Projects/Capstone/Content/LPSDeluxe2TropicalEnvironment/LPSD2_Textures/T_WoodPlank.uasset" 780
 "C:/Users/Jose Velazquez/Documents/Unreal Projects/Capstone/Content/LPSDeluxe2TropicalEnvironment/LPSD2_Materials/SpecialMaterials/MiscMaterials/M_WoodPlank.uasset" 781
-"C:/Users/Jose Velazquez/Documents/Unreal Projects/Capstone/Content/LPSDeluxe2TropicalEnvironment/LPSD2_Materials/SpecialMaterials/2ToneMaterials/MI_Mount_Green_2.uasset" 782
-"C:/Users/Jose Velazquez/Documents/Unreal Projects/Capstone/Content/LPSDeluxe2TropicalEnvironment/LPSD2_Meshes/Mountain/SM_CliffTop_2.uasset" 783
-"C:/Users/Jose Velazquez/Documents/Unreal Projects/Capstone/Content/LPSDeluxe2TropicalEnvironment/LPSD2_Materials/SpecialMaterials/MiscMaterials/M_Glass_Window.uasset" 784
-"C:/Users/Jose Velazquez/Documents/Unreal Projects/Capstone/Content/LPSDeluxe2TropicalEnvironment/LPSD2_Materials/SpecialMaterials/2SidedMaterials/M_2Side_White.uasset" 785
-"C:/Users/Jose Velazquez/Documents/Unreal Projects/Capstone/Content/LPSDeluxe2TropicalEnvironment/LPSD2_Materials/Materials/Master_Color_Instances/MI_Glow_Orange.uasset" 786
-"C:/Users/Jose Velazquez/Documents/Unreal Projects/Capstone/Content/LPSDeluxe2TropicalEnvironment/LPSD2_Materials/Materials/Master_Color_Instances/MI_Metal_Aluminum.uasset" 787
-"C:/Users/Jose Velazquez/Documents/Unreal Projects/Capstone/Content/LPSDeluxe2TropicalEnvironment/LPSD2_Materials/Materials/Master_Color_Instances/MI_Color_Red.uasset" 788
-"C:/Users/Jose Velazquez/Documents/Unreal Projects/Capstone/Content/LPSDeluxe2TropicalEnvironment/LPSD2_Meshes/Beach/SM_TropicalLighthouse_1.uasset" 789
-"C:/Users/Jose Velazquez/Documents/Unreal Projects/Capstone/Content/LPSDeluxe2TropicalEnvironment/LPSD2_Materials/SpecialMaterials/MiscMaterials/M_WindSails.uasset" 790
-"C:/Users/Jose Velazquez/Documents/Unreal Projects/Capstone/Content/LPSDeluxe2TropicalEnvironment/LPSD2_Textures/T_Waves.uasset" 791
-"C:/Users/Jose Velazquez/Documents/Unreal Projects/Capstone/Content/LPSDeluxe2TropicalEnvironment/LPSD2_Textures/T_JollyRoger.uasset" 792
-"../../../Engine/Content/Functions/Engine_MaterialFunctions02/Math/TimeWithSpeedVariable.uasset" 793
-"C:/Users/Jose Velazquez/Documents/Unreal Projects/Capstone/Content/LPSDeluxe2TropicalEnvironment/LPSD2_Materials/SpecialMaterials/MiscMaterials/M_JollyRoger.uasset" 794
-"C:/Users/Jose Velazquez/Documents/Unreal Projects/Capstone/Content/LPSDeluxe2TropicalEnvironment/LPSD2_Materials/SpecialMaterials/2SidedMaterials/MI_2Side_LightBrown.uasset" 795
-"C:/Users/Jose Velazquez/Documents/Unreal Projects/Capstone/Content/LPSDeluxe2TropicalEnvironment/LPSD2_Meshes/Pirate/SM_PirateShip_1.uasset" 796
-"C:/Users/Jose Velazquez/Documents/Unreal Projects/Capstone/Content/LPSDeluxe2TropicalEnvironment/LPSD2_Meshes/Mountain/SM_TropicMountain_5.uasset" 797
-"C:/Users/Jose Velazquez/Documents/Unreal Projects/Capstone/Content/LPSDeluxe2TropicalEnvironment/LPSD2_Meshes/Mountain/SM_TropicMountain_3.uasset" 798
-"C:/Users/Jose Velazquez/Documents/Unreal Projects/Capstone/Content/LPSDeluxe2TropicalEnvironment/LPSD2_Meshes/Mountain/SM_TropicMountain_1.uasset" 799
+"C:/Users/Jose Velazquez/Documents/Unreal Projects/Capstone/Content/LPSDeluxe2TropicalEnvironment/LPSD2_Materials/SpecialMaterials/MiscMaterials/M_WindSails.uasset" 782
+"C:/Users/Jose Velazquez/Documents/Unreal Projects/Capstone/Content/LPSDeluxe2TropicalEnvironment/LPSD2_Textures/T_Waves.uasset" 783
+"C:/Users/Jose Velazquez/Documents/Unreal Projects/Capstone/Content/LPSDeluxe2TropicalEnvironment/LPSD2_Textures/T_JollyRoger.uasset" 784
+"../../../Engine/Content/Functions/Engine_MaterialFunctions02/Math/TimeWithSpeedVariable.uasset" 785
+"C:/Users/Jose Velazquez/Documents/Unreal Projects/Capstone/Content/LPSDeluxe2TropicalEnvironment/LPSD2_Materials/SpecialMaterials/MiscMaterials/M_JollyRoger.uasset" 786
+"C:/Users/Jose Velazquez/Documents/Unreal Projects/Capstone/Content/LPSDeluxe2TropicalEnvironment/LPSD2_Materials/SpecialMaterials/MiscMaterials/M_Glass_Window.uasset" 787
+"C:/Users/Jose Velazquez/Documents/Unreal Projects/Capstone/Content/LPSDeluxe2TropicalEnvironment/LPSD2_Materials/Materials/Master_Color_Instances/MI_Glow_Orange.uasset" 788
+"C:/Users/Jose Velazquez/Documents/Unreal Projects/Capstone/Content/LPSDeluxe2TropicalEnvironment/LPSD2_Materials/SpecialMaterials/2SidedMaterials/MI_2Side_LightBrown.uasset" 789
+"C:/Users/Jose Velazquez/Documents/Unreal Projects/Capstone/Content/LPSDeluxe2TropicalEnvironment/LPSD2_Meshes/Pirate/SM_PirateShip_1.uasset" 790
+"C:/Users/Jose Velazquez/Documents/Unreal Projects/Capstone/Content/LPSDeluxe2TropicalEnvironment/LPSD2_Materials/SpecialMaterials/2ToneMaterials/MI_Mount_Green_2.uasset" 791
+"C:/Users/Jose Velazquez/Documents/Unreal Projects/Capstone/Content/LPSDeluxe2TropicalEnvironment/LPSD2_Meshes/Mountain/SM_TropicMountain_5.uasset" 792
+"C:/Users/Jose Velazquez/Documents/Unreal Projects/Capstone/Content/LPSDeluxe2TropicalEnvironment/LPSD2_Meshes/Mountain/SM_TropicMountain_3.uasset" 793
+"C:/Users/Jose Velazquez/Documents/Unreal Projects/Capstone/Content/LPSDeluxe2TropicalEnvironment/LPSD2_Meshes/Mountain/SM_TropicMountain_1.uasset" 794
+"C:/Users/Jose Velazquez/Documents/Unreal Projects/Capstone/Content/LPSDeluxe2TropicalEnvironment/LPSD2_Meshes/Mountain/SM_CliffTop_2.uasset" 795
+"C:/Users/Jose Velazquez/Documents/Unreal Projects/Capstone/Content/LPSDeluxe2TropicalEnvironment/LPSD2_Materials/SpecialMaterials/2SidedMaterials/M_2Side_White.uasset" 796
+"C:/Users/Jose Velazquez/Documents/Unreal Projects/Capstone/Content/LPSDeluxe2TropicalEnvironment/LPSD2_Materials/Materials/Master_Color_Instances/MI_Metal_Aluminum.uasset" 797
+"C:/Users/Jose Velazquez/Documents/Unreal Projects/Capstone/Content/LPSDeluxe2TropicalEnvironment/LPSD2_Materials/Materials/Master_Color_Instances/MI_Color_Red.uasset" 798
+"C:/Users/Jose Velazquez/Documents/Unreal Projects/Capstone/Content/LPSDeluxe2TropicalEnvironment/LPSD2_Meshes/Beach/SM_TropicalLighthouse_1.uasset" 799
 "C:/Users/Jose Velazquez/Documents/Unreal Projects/Capstone/Content/_Maps/Tap-Game.umap" 800
 "C:/Users/Jose Velazquez/Documents/Unreal Projects/Capstone/Content/_Maps/Tiro-Al-Blanco_BuiltData.uasset" 801
 "C:/Users/Jose Velazquez/Documents/Unreal Projects/Capstone/Content/stylized_env_moutain_ruins/Meshes/rocks/sm_rock_11.uasset" 802
@@ -820,137 +820,137 @@
 "C:/Users/Jose Velazquez/Documents/Unreal Projects/Capstone/Content/stylized_env_moutain_ruins/Meshes/rocks/sm_rock_10.uasset" 819
 "C:/Users/Jose Velazquez/Documents/Unreal Projects/Capstone/Content/PolygonWestern/Textures/T_PolygonWestern_01_A.uasset" 820
 "C:/Users/Jose Velazquez/Documents/Unreal Projects/Capstone/Content/PolygonWestern/Materials/Mat_PolygonWestern_01_A.uasset" 821
-"C:/Users/Jose Velazquez/Documents/Unreal Projects/Capstone/Content/PolygonWestern/Meshes/Buildings/SM_Bld_WindmillTop_01.uasset" 822
-"C:/Users/Jose Velazquez/Documents/Unreal Projects/Capstone/Content/PolygonWestern/Meshes/Buildings/SM_Bld_Windmill_01.uasset" 823
-"C:/Users/Jose Velazquez/Documents/Unreal Projects/Capstone/Content/PolygonWestern/Meshes/Props/SM_Prop_Wood_Pile_01.uasset" 824
-"C:/Users/Jose Velazquez/Documents/Unreal Projects/Capstone/Content/PolygonWestern/Meshes/Props/SM_Prop_Pot_01.uasset" 825
-"C:/Users/Jose Velazquez/Documents/Unreal Projects/Capstone/Content/PolygonWestern/Meshes/Props/SM_Prop_Wood_Pile_03.uasset" 826
-"C:/Users/Jose Velazquez/Documents/Unreal Projects/Capstone/Content/PolygonWestern/Meshes/Props/SM_Prop_Wood_Pile_02.uasset" 827
-"C:/Users/Jose Velazquez/Documents/Unreal Projects/Capstone/Content/PolygonWestern/Meshes/Buildings/SM_Bld_Well_01.uasset" 828
-"C:/Users/Jose Velazquez/Documents/Unreal Projects/Capstone/Content/PolygonWestern/Meshes/Buildings/SM_Bld_TrainStation_01.uasset" 829
-"C:/Users/Jose Velazquez/Documents/Unreal Projects/Capstone/Content/PolygonWestern/Meshes/Props/SM_Prop_Piano_Seat_01.uasset" 830
-"C:/Users/Jose Velazquez/Documents/Unreal Projects/Capstone/Content/PolygonWestern/Meshes/Props/SM_Prop_Piano_01.uasset" 831
-"C:/Users/Jose Velazquez/Documents/Unreal Projects/Capstone/Content/PolygonWestern/Meshes/Props/SM_Prop_MooseHead_01.uasset" 832
-"C:/Users/Jose Velazquez/Documents/Unreal Projects/Capstone/Content/PolygonWestern/Meshes/Props/SM_Prop_Milk_Container_01.uasset" 833
-"C:/Users/Jose Velazquez/Documents/Unreal Projects/Capstone/Content/PolygonWestern/Meshes/Props/SM_Prop_MessageBoard.uasset" 834
-"C:/Users/Jose Velazquez/Documents/Unreal Projects/Capstone/Content/PolygonWestern/Meshes/Props/SM_Prop_Entrance_02.uasset" 835
-"C:/Users/Jose Velazquez/Documents/Unreal Projects/Capstone/Content/PolygonWestern/Meshes/Props/SM_Prop_Curtain_01.uasset" 836
-"C:/Users/Jose Velazquez/Documents/Unreal Projects/Capstone/Content/PolygonWestern/Meshes/Props/SM_Prop_Crate_01.uasset" 837
-"C:/Users/Jose Velazquez/Documents/Unreal Projects/Capstone/Content/PolygonWestern/Meshes/Props/SM_Prop_Cash_Register_01.uasset" 838
-"C:/Users/Jose Velazquez/Documents/Unreal Projects/Capstone/Content/PolygonWestern/Meshes/Environment/SM_Env_TreeDead_03.uasset" 839
-"C:/Users/Jose Velazquez/Documents/Unreal Projects/Capstone/Content/PolygonWestern/Meshes/Environment/SM_Env_TreeDead_02.uasset" 840
-"C:/Users/Jose Velazquez/Documents/Unreal Projects/Capstone/Content/PolygonWestern/Meshes/Environment/SM_Env_TreeDead_01.uasset" 841
-"C:/Users/Jose Velazquez/Documents/Unreal Projects/Capstone/Content/PolygonWestern/Meshes/Buildings/SM_Bld_Saloon_Swinging_Doors_01.uasset" 842
-"C:/Users/Jose Velazquez/Documents/Unreal Projects/Capstone/Content/PolygonWestern/Meshes/Buildings/SM_Bld_Saloon_01.uasset" 843
-"C:/Users/Jose Velazquez/Documents/Unreal Projects/Capstone/Content/PolygonWestern/Meshes/Buildings/SM_Bld_Jail_01.uasset" 844
-"C:/Users/Jose Velazquez/Documents/Unreal Projects/Capstone/Content/PolygonWestern/Meshes/Buildings/SM_Bld_Door_BackDoor_01.uasset" 845
-"C:/Users/Jose Velazquez/Documents/Unreal Projects/Capstone/Content/PolygonWestern/Meshes/Buildings/SM_Bld_Church_01.uasset" 846
-"../../../Engine/Content/BasicShapes/BasicShapeMaterial.uasset" 847
-"C:/Users/Jose Velazquez/Documents/Unreal Projects/Capstone/Content/PN_mediterraneanPlants_II/Textures/PivotPainter/flower_03_VEC.uasset" 848
-"C:/Users/Jose Velazquez/Documents/Unreal Projects/Capstone/Content/PN_mediterraneanPlants_II/Textures/PivotPainter/flower_03_PIV.uasset" 849
-"C:/Users/Jose Velazquez/Documents/Unreal Projects/Capstone/Content/PN_mediterraneanPlants_II/Textures/MasterTextures/flower_N.uasset" 850
-"C:/Users/Jose Velazquez/Documents/Unreal Projects/Capstone/Content/PN_mediterraneanPlants_II/Textures/MasterTextures/flower_AORO.uasset" 851
-"C:/Users/Jose Velazquez/Documents/Unreal Projects/Capstone/Content/PN_mediterraneanPlants_II/Textures/MasterTextures/flower_A.uasset" 852
-"C:/Users/Jose Velazquez/Documents/Unreal Projects/Capstone/Content/PN_mediterraneanPlants_II/Materials/MaterialFunctions/PN_BendingParameters.uasset" 853
-"../../../Engine/Content/Functions/Engine_MaterialFunctions02/ExampleContent/Textures/WindTurblenceVectorAndGustMagnitude.uasset" 854
-"../../../Engine/Content/Functions/Engine_MaterialFunctions02/ExampleContent/PivotPainter2/test2_rgb_PivotPos_a_ParentIndexInt_UV_2.uasset" 855
-"../../../Engine/Content/Functions/Engine_MaterialFunctions02/ExampleContent/PivotPainter2/PP2_rgb_XVect_a_XExtent.uasset" 856
-"C:/Users/Jose Velazquez/Documents/Unreal Projects/Capstone/Content/PN_mediterraneanPlants_II/Materials/PN_WindParameters.uasset" 857
-"../../../Engine/Content/Functions/Engine_MaterialFunctions02/PivotPainter2/ms_PivotPainter2_DecodePostion.uasset" 858
-"../../../Engine/Content/Functions/Engine_MaterialFunctions02/PivotPainter2/ms_PivotPainter2_DecodeAxisVector.uasset" 859
-"../../../Engine/Content/Functions/Engine_MaterialFunctions02/PivotPainter2/ms_PivotPainter2_Decode8BitAlphaAxisExtent.uasset" 860
-"../../../Engine/Content/Functions/Engine_MaterialFunctions02/ExampleContent/PivotPainter2/SimpExPivPos.uasset" 861
-"C:/Users/Jose Velazquez/Documents/Unreal Projects/Capstone/Content/PN_mediterraneanPlants_II/Materials/MaterialFunctions/PN_WindAnimation.uasset" 862
-"C:/Users/Jose Velazquez/Documents/Unreal Projects/Capstone/Content/PN_mediterraneanPlants_II/Materials/MaterialFunctions/PN_Bending.uasset" 863
-"../../../Engine/Content/Functions/Engine_MaterialFunctions02/WorldPositionOffset/ObjectPivotPoint.uasset" 864
-"C:/Users/Jose Velazquez/Documents/Unreal Projects/Capstone/Content/PN_mediterraneanPlants_II/Materials/MaterialFunctions/PN_MultiBend.uasset" 865
-"../../../Engine/Content/Functions/Engine_MaterialFunctions02/PivotPainter2/2dArrayLookupByIndex.uasset" 866
-"../../../Engine/Content/Functions/Engine_MaterialFunctions02/PivotPainter2/ms_PivotPainter2_ReturnParentTextureInfo.uasset" 867
-"../../../Engine/Content/Functions/Engine_MaterialFunctions02/PivotPainter2/ms_PivotPainter2_CalculateMeshElementIndex.uasset" 868
-"../../../Engine/Content/Functions/Engine_MaterialFunctions02/ms_PivotPainter2_UnpackIntegerAsFloat.uasset" 869
-"../../../Engine/Content/Functions/Engine_MaterialFunctions02/Lerp_Multiple_Float2.uasset" 870
-"C:/Users/Jose Velazquez/Documents/Unreal Projects/Capstone/Content/PN_mediterraneanPlants_II/Materials/MaterialFunctions/PN_AnimationShader.uasset" 871
-"C:/Users/Jose Velazquez/Documents/Unreal Projects/Capstone/Content/PN_mediterraneanPlants_II/Materials/MA_Flower.uasset" 872
-"C:/Users/Jose Velazquez/Documents/Unreal Projects/Capstone/Content/PN_mediterraneanPlants_II/Materials/Material_Instances/Flower/MI_Flower_03.uasset" 873
-"C:/Users/Jose Velazquez/Documents/Unreal Projects/Capstone/Content/PN_mediterraneanPlants_II/Meshes/flower_03.uasset" 874
-"C:/Users/Jose Velazquez/Documents/Unreal Projects/Capstone/Content/PN_mediterraneanPlants_II/Textures/PivotPainter/flower_02_VEC.uasset" 875
-"C:/Users/Jose Velazquez/Documents/Unreal Projects/Capstone/Content/PN_mediterraneanPlants_II/Textures/PivotPainter/flower_02_PIV.uasset" 876
-"C:/Users/Jose Velazquez/Documents/Unreal Projects/Capstone/Content/PN_mediterraneanPlants_II/Materials/Material_Instances/Flower/MI_Flower_02.uasset" 877
-"C:/Users/Jose Velazquez/Documents/Unreal Projects/Capstone/Content/PN_mediterraneanPlants_II/Meshes/flower_02.uasset" 878
-"C:/Users/Jose Velazquez/Documents/Unreal Projects/Capstone/Content/PN_mediterraneanPlants_II/Textures/PivotPainter/cactus_05_VEC.uasset" 879
-"C:/Users/Jose Velazquez/Documents/Unreal Projects/Capstone/Content/PN_mediterraneanPlants_II/Textures/PivotPainter/cactus_05_PIV.uasset" 880
-"C:/Users/Jose Velazquez/Documents/Unreal Projects/Capstone/Content/PN_mediterraneanPlants_II/Textures/MasterTextures/cactus_N.uasset" 881
-"C:/Users/Jose Velazquez/Documents/Unreal Projects/Capstone/Content/PN_mediterraneanPlants_II/Textures/MasterTextures/cactus_AORO.uasset" 882
-"C:/Users/Jose Velazquez/Documents/Unreal Projects/Capstone/Content/PN_mediterraneanPlants_II/Textures/MasterTextures/cactus_A.uasset" 883
-"C:/Users/Jose Velazquez/Documents/Unreal Projects/Capstone/Content/PN_mediterraneanPlants_II/Materials/MA_Cactus.uasset" 884
-"C:/Users/Jose Velazquez/Documents/Unreal Projects/Capstone/Content/PN_mediterraneanPlants_II/Materials/Material_Instances/Cactus/MI_Cactus_05.uasset" 885
-"C:/Users/Jose Velazquez/Documents/Unreal Projects/Capstone/Content/PN_mediterraneanPlants_II/Meshes/cactus_05.uasset" 886
-"C:/Users/Jose Velazquez/Documents/Unreal Projects/Capstone/Content/PN_mediterraneanPlants_II/Textures/PivotPainter/cactus_03_VEC.uasset" 887
-"C:/Users/Jose Velazquez/Documents/Unreal Projects/Capstone/Content/PN_mediterraneanPlants_II/Textures/PivotPainter/cactus_03_PIV.uasset" 888
-"C:/Users/Jose Velazquez/Documents/Unreal Projects/Capstone/Content/PN_mediterraneanPlants_II/Materials/Material_Instances/Cactus/MI_Cactus_03.uasset" 889
-"C:/Users/Jose Velazquez/Documents/Unreal Projects/Capstone/Content/PN_mediterraneanPlants_II/Meshes/cactus_03.uasset" 890
-"C:/Users/Jose Velazquez/Documents/Unreal Projects/Capstone/Content/PN_mediterraneanPlants_II/Textures/PivotPainter/cactus_02_VEC.uasset" 891
-"C:/Users/Jose Velazquez/Documents/Unreal Projects/Capstone/Content/PN_mediterraneanPlants_II/Textures/PivotPainter/cactus_02_PIV.uasset" 892
-"C:/Users/Jose Velazquez/Documents/Unreal Projects/Capstone/Content/PN_mediterraneanPlants_II/Materials/Material_Instances/Cactus/MI_Cactus_02.uasset" 893
-"C:/Users/Jose Velazquez/Documents/Unreal Projects/Capstone/Content/PN_mediterraneanPlants_II/Meshes/cactus_02.uasset" 894
-"C:/Users/Jose Velazquez/Documents/Unreal Projects/Capstone/Content/PN_mediterraneanPlants_II/Textures/PivotPainter/cactus_01_VEC.uasset" 895
-"C:/Users/Jose Velazquez/Documents/Unreal Projects/Capstone/Content/PN_mediterraneanPlants_II/Textures/PivotPainter/cactus_01_PIV.uasset" 896
-"C:/Users/Jose Velazquez/Documents/Unreal Projects/Capstone/Content/PN_mediterraneanPlants_II/Materials/Material_Instances/Cactus/MI_Cactus_01.uasset" 897
-"C:/Users/Jose Velazquez/Documents/Unreal Projects/Capstone/Content/PN_mediterraneanPlants_II/Meshes/cactus_01.uasset" 898
-"C:/Users/Jose Velazquez/Documents/Unreal Projects/Capstone/Content/PN_mediterraneanPlants_II/Textures/PivotPainter/bush_02_02_VEC.uasset" 899
-"C:/Users/Jose Velazquez/Documents/Unreal Projects/Capstone/Content/PN_mediterraneanPlants_II/Textures/PivotPainter/bush_02_02_PIV.uasset" 900
-"C:/Users/Jose Velazquez/Documents/Unreal Projects/Capstone/Content/PN_mediterraneanPlants_II/Textures/MasterTextures/bush_N.uasset" 901
-"C:/Users/Jose Velazquez/Documents/Unreal Projects/Capstone/Content/PN_mediterraneanPlants_II/Textures/MasterTextures/bush_AORO.uasset" 902
-"C:/Users/Jose Velazquez/Documents/Unreal Projects/Capstone/Content/PN_mediterraneanPlants_II/Textures/MasterTextures/bush_A.uasset" 903
-"C:/Users/Jose Velazquez/Documents/Unreal Projects/Capstone/Content/PN_mediterraneanPlants_II/Materials/MA_Bush.uasset" 904
-"C:/Users/Jose Velazquez/Documents/Unreal Projects/Capstone/Content/PN_mediterraneanPlants_II/Materials/Material_Instances/Bush/MI_bush_02_02.uasset" 905
-"C:/Users/Jose Velazquez/Documents/Unreal Projects/Capstone/Content/PN_mediterraneanPlants_II/Meshes/bush_02_02.uasset" 906
-"C:/Users/Jose Velazquez/Documents/Unreal Projects/Capstone/Content/PN_mediterraneanPlants_II/Textures/PivotPainter/bush_02_01_VEC.uasset" 907
-"C:/Users/Jose Velazquez/Documents/Unreal Projects/Capstone/Content/PN_mediterraneanPlants_II/Textures/PivotPainter/bush_02_01_PIV.uasset" 908
-"C:/Users/Jose Velazquez/Documents/Unreal Projects/Capstone/Content/PN_mediterraneanPlants_II/Materials/Material_Instances/Bush/MI_bush_02_01.uasset" 909
-"C:/Users/Jose Velazquez/Documents/Unreal Projects/Capstone/Content/PN_mediterraneanPlants_II/Meshes/bush_02_01.uasset" 910
-"C:/Users/Jose Velazquez/Documents/Unreal Projects/Capstone/Content/PN_mediterraneanPlants_II/Textures/PivotPainter/bush_01_04_VEC.uasset" 911
-"C:/Users/Jose Velazquez/Documents/Unreal Projects/Capstone/Content/PN_mediterraneanPlants_II/Textures/PivotPainter/bush_01_04_PIV.uasset" 912
-"C:/Users/Jose Velazquez/Documents/Unreal Projects/Capstone/Content/PN_mediterraneanPlants_II/Materials/Material_Instances/Bush/MI_bush_01_04.uasset" 913
-"C:/Users/Jose Velazquez/Documents/Unreal Projects/Capstone/Content/PN_mediterraneanPlants_II/Meshes/bush_01_04.uasset" 914
-"C:/Users/Jose Velazquez/Documents/Unreal Projects/Capstone/Content/PN_mediterraneanPlants_II/Textures/PivotPainter/bush_01_02_VEC.uasset" 915
-"C:/Users/Jose Velazquez/Documents/Unreal Projects/Capstone/Content/PN_mediterraneanPlants_II/Textures/PivotPainter/bush_01_02_PIV.uasset" 916
-"C:/Users/Jose Velazquez/Documents/Unreal Projects/Capstone/Content/PN_mediterraneanPlants_II/Materials/Material_Instances/Bush/MI_bush_01_02.uasset" 917
-"C:/Users/Jose Velazquez/Documents/Unreal Projects/Capstone/Content/PN_mediterraneanPlants_II/Meshes/bush_01_02.uasset" 918
-"C:/Users/Jose Velazquez/Documents/Unreal Projects/Capstone/Content/PN_mediterraneanPlants_II/Textures/PivotPainter/bush_01_01_VEC.uasset" 919
-"C:/Users/Jose Velazquez/Documents/Unreal Projects/Capstone/Content/PN_mediterraneanPlants_II/Textures/PivotPainter/bush_01_01_PIV.uasset" 920
-"C:/Users/Jose Velazquez/Documents/Unreal Projects/Capstone/Content/PN_mediterraneanPlants_II/Materials/Material_Instances/Bush/MI_bush_01_01.uasset" 921
-"C:/Users/Jose Velazquez/Documents/Unreal Projects/Capstone/Content/PN_mediterraneanPlants_II/Meshes/bush_01_01.uasset" 922
-"C:/Users/Jose Velazquez/Documents/Unreal Projects/Capstone/Content/PN_mediterraneanPlants_II/Textures/PivotPainter/cactus_04_VEC.uasset" 923
-"C:/Users/Jose Velazquez/Documents/Unreal Projects/Capstone/Content/PN_mediterraneanPlants_II/Textures/PivotPainter/cactus_04_PIV.uasset" 924
-"C:/Users/Jose Velazquez/Documents/Unreal Projects/Capstone/Content/PN_mediterraneanPlants_II/Materials/Material_Instances/Cactus/MI_Cactus_04.uasset" 925
-"C:/Users/Jose Velazquez/Documents/Unreal Projects/Capstone/Content/PN_mediterraneanPlants_II/Meshes/cactus_04.uasset" 926
-"C:/Users/Jose Velazquez/Documents/Unreal Projects/Capstone/Content/MergeActor/TiroAlBlanco/Vallas.uasset" 927
-"C:/Users/Jose Velazquez/Documents/Unreal Projects/Capstone/Content/MergeActor/TiroAlBlanco/Rocks.uasset" 928
-"C:/Users/Jose Velazquez/Documents/Unreal Projects/Capstone/Content/PN_mediterraneanPlants_II/Textures/PivotPainter/bush_01_03_VEC.uasset" 929
-"C:/Users/Jose Velazquez/Documents/Unreal Projects/Capstone/Content/PN_mediterraneanPlants_II/Textures/PivotPainter/bush_01_03_PIV.uasset" 930
-"C:/Users/Jose Velazquez/Documents/Unreal Projects/Capstone/Content/PN_mediterraneanPlants_II/Materials/Material_Instances/Bush/MI_bush_01_03.uasset" 931
-"C:/Users/Jose Velazquez/Documents/Unreal Projects/Capstone/Content/PN_mediterraneanPlants_II/Textures/PivotPainter/bush_02_03_VEC.uasset" 932
-"C:/Users/Jose Velazquez/Documents/Unreal Projects/Capstone/Content/PN_mediterraneanPlants_II/Textures/PivotPainter/bush_02_03_PIV.uasset" 933
-"C:/Users/Jose Velazquez/Documents/Unreal Projects/Capstone/Content/PN_mediterraneanPlants_II/Materials/Material_Instances/Bush/MI_bush_02_03.uasset" 934
-"C:/Users/Jose Velazquez/Documents/Unreal Projects/Capstone/Content/MergeActor/TiroAlBlanco/Bush.uasset" 935
-"C:/Users/Jose Velazquez/Documents/Unreal Projects/Capstone/Content/LPSDeluxe2TropicalEnvironment/LPSD2_Materials/Materials/Master_Color_Instances/MI_Color_BrownGlass.uasset" 936
-"C:/Users/Jose Velazquez/Documents/Unreal Projects/Capstone/Content/LPSDeluxe2TropicalEnvironment/LPSD2_Materials/Materials/Master_Color_Instances/MI_Color_Bamboo_2.uasset" 937
-"C:/Users/Jose Velazquez/Documents/Unreal Projects/Capstone/Content/MergeActor/TiroAlBlanco/Barriles.uasset" 938
-"C:/Users/Jose Velazquez/Documents/Unreal Projects/Capstone/Content/Music/S_TargetShooting.uasset" 939
-"C:/Users/Jose Velazquez/Documents/Unreal Projects/Capstone/Content/Music/Cue_TargetShooting.uasset" 940
-"C:/Users/Jose Velazquez/Documents/Unreal Projects/Capstone/Content/LPSDeluxe2TropicalEnvironment/LPSD2_Materials/SpecialMaterials/2ToneMaterials/MI_Mount_CreamOrange.uasset" 941
-"C:/Users/Jose Velazquez/Documents/Unreal Projects/Capstone/Content/LPSDeluxe2TropicalEnvironment/LPSD2_Meshes/Pirate/SM_ShipBarrel_2.uasset" 942
-"C:/Users/Jose Velazquez/Documents/Unreal Projects/Capstone/Content/LPSDeluxe2TropicalEnvironment/LPSD2_Meshes/Pirate/SM_ShipBarrel_1.uasset" 943
-"C:/Users/Jose Velazquez/Documents/Unreal Projects/Capstone/Content/LPSDeluxe2TropicalEnvironment/LPSD2_Meshes/Pirate/SM_RumBottle_1.uasset" 944
-"C:/Users/Jose Velazquez/Documents/Unreal Projects/Capstone/Content/LPSDeluxe2TropicalEnvironment/LPSD2_Materials/Materials/Master_Color_Instances/MI_Color_Bamboo.uasset" 945
-"C:/Users/Jose Velazquez/Documents/Unreal Projects/Capstone/Content/LPSDeluxe2TropicalEnvironment/LPSD2_Materials/Materials/Master_Color_Instances/MI_Color_2S_Pine.uasset" 946
-"C:/Users/Jose Velazquez/Documents/Unreal Projects/Capstone/Content/LPSDeluxe2TropicalEnvironment/LPSD2_Meshes/Pirate/SM_MessageBottle_1.uasset" 947
-"C:/Users/Jose Velazquez/Documents/Unreal Projects/Capstone/Content/LPSDeluxe2TropicalEnvironment/LPSD2_Meshes/Pirate/SM_Crate_1.uasset" 948
-"C:/Users/Jose Velazquez/Documents/Unreal Projects/Capstone/Content/LPSDeluxe2TropicalEnvironment/LPSD2_Meshes/Pirate/SM_BarrellTap_1.uasset" 949
-"C:/Users/Jose Velazquez/Documents/Unreal Projects/Capstone/Content/LPSDeluxe2TropicalEnvironment/LPSD2_Meshes/Mountain/SM_TRock_3.uasset" 950
-"C:/Users/Jose Velazquez/Documents/Unreal Projects/Capstone/Content/LPSDeluxe2TropicalEnvironment/LPSD2_Meshes/Mountain/SM_TRock_2.uasset" 951
-"C:/Users/Jose Velazquez/Documents/Unreal Projects/Capstone/Content/LPSDeluxe2TropicalEnvironment/LPSD2_Meshes/Mountain/SM_TRock_1.uasset" 952
+"C:/Users/Jose Velazquez/Documents/Unreal Projects/Capstone/Content/PolygonWestern/Meshes/Props/SM_Prop_Wood_Pile_03.uasset" 822
+"C:/Users/Jose Velazquez/Documents/Unreal Projects/Capstone/Content/PolygonWestern/Meshes/Props/SM_Prop_Wood_Pile_02.uasset" 823
+"C:/Users/Jose Velazquez/Documents/Unreal Projects/Capstone/Content/PolygonWestern/Meshes/Props/SM_Prop_Pot_01.uasset" 824
+"C:/Users/Jose Velazquez/Documents/Unreal Projects/Capstone/Content/PolygonWestern/Meshes/Props/SM_Prop_Piano_Seat_01.uasset" 825
+"C:/Users/Jose Velazquez/Documents/Unreal Projects/Capstone/Content/PolygonWestern/Meshes/Props/SM_Prop_Piano_01.uasset" 826
+"C:/Users/Jose Velazquez/Documents/Unreal Projects/Capstone/Content/PolygonWestern/Meshes/Props/SM_Prop_MooseHead_01.uasset" 827
+"C:/Users/Jose Velazquez/Documents/Unreal Projects/Capstone/Content/PolygonWestern/Meshes/Props/SM_Prop_Milk_Container_01.uasset" 828
+"C:/Users/Jose Velazquez/Documents/Unreal Projects/Capstone/Content/PolygonWestern/Meshes/Props/SM_Prop_MessageBoard.uasset" 829
+"C:/Users/Jose Velazquez/Documents/Unreal Projects/Capstone/Content/PolygonWestern/Meshes/Props/SM_Prop_Entrance_02.uasset" 830
+"C:/Users/Jose Velazquez/Documents/Unreal Projects/Capstone/Content/PolygonWestern/Meshes/Props/SM_Prop_Curtain_01.uasset" 831
+"C:/Users/Jose Velazquez/Documents/Unreal Projects/Capstone/Content/PolygonWestern/Meshes/Props/SM_Prop_Crate_01.uasset" 832
+"C:/Users/Jose Velazquez/Documents/Unreal Projects/Capstone/Content/PolygonWestern/Meshes/Props/SM_Prop_Cash_Register_01.uasset" 833
+"C:/Users/Jose Velazquez/Documents/Unreal Projects/Capstone/Content/PolygonWestern/Meshes/Environment/SM_Env_TreeDead_03.uasset" 834
+"C:/Users/Jose Velazquez/Documents/Unreal Projects/Capstone/Content/PolygonWestern/Meshes/Environment/SM_Env_TreeDead_02.uasset" 835
+"C:/Users/Jose Velazquez/Documents/Unreal Projects/Capstone/Content/PolygonWestern/Meshes/Environment/SM_Env_TreeDead_01.uasset" 836
+"C:/Users/Jose Velazquez/Documents/Unreal Projects/Capstone/Content/PolygonWestern/Meshes/Buildings/SM_Bld_WindmillTop_01.uasset" 837
+"C:/Users/Jose Velazquez/Documents/Unreal Projects/Capstone/Content/PolygonWestern/Meshes/Buildings/SM_Bld_Windmill_01.uasset" 838
+"C:/Users/Jose Velazquez/Documents/Unreal Projects/Capstone/Content/PolygonWestern/Meshes/Props/SM_Prop_Wood_Pile_01.uasset" 839
+"C:/Users/Jose Velazquez/Documents/Unreal Projects/Capstone/Content/PolygonWestern/Meshes/Buildings/SM_Bld_Saloon_Swinging_Doors_01.uasset" 840
+"C:/Users/Jose Velazquez/Documents/Unreal Projects/Capstone/Content/PolygonWestern/Meshes/Buildings/SM_Bld_Saloon_01.uasset" 841
+"C:/Users/Jose Velazquez/Documents/Unreal Projects/Capstone/Content/PolygonWestern/Meshes/Buildings/SM_Bld_Jail_01.uasset" 842
+"C:/Users/Jose Velazquez/Documents/Unreal Projects/Capstone/Content/PolygonWestern/Meshes/Buildings/SM_Bld_Door_BackDoor_01.uasset" 843
+"C:/Users/Jose Velazquez/Documents/Unreal Projects/Capstone/Content/PolygonWestern/Meshes/Buildings/SM_Bld_Church_01.uasset" 844
+"C:/Users/Jose Velazquez/Documents/Unreal Projects/Capstone/Content/PolygonWestern/Meshes/Buildings/SM_Bld_Well_01.uasset" 845
+"C:/Users/Jose Velazquez/Documents/Unreal Projects/Capstone/Content/PolygonWestern/Meshes/Buildings/SM_Bld_TrainStation_01.uasset" 846
+"C:/Users/Jose Velazquez/Documents/Unreal Projects/Capstone/Content/PN_mediterraneanPlants_II/Textures/PivotPainter/flower_03_VEC.uasset" 847
+"C:/Users/Jose Velazquez/Documents/Unreal Projects/Capstone/Content/PN_mediterraneanPlants_II/Textures/PivotPainter/flower_03_PIV.uasset" 848
+"C:/Users/Jose Velazquez/Documents/Unreal Projects/Capstone/Content/PN_mediterraneanPlants_II/Textures/MasterTextures/flower_N.uasset" 849
+"C:/Users/Jose Velazquez/Documents/Unreal Projects/Capstone/Content/PN_mediterraneanPlants_II/Textures/MasterTextures/flower_AORO.uasset" 850
+"C:/Users/Jose Velazquez/Documents/Unreal Projects/Capstone/Content/PN_mediterraneanPlants_II/Textures/MasterTextures/flower_A.uasset" 851
+"../../../Engine/Content/Functions/Engine_MaterialFunctions02/ExampleContent/Textures/WindTurblenceVectorAndGustMagnitude.uasset" 852
+"../../../Engine/Content/Functions/Engine_MaterialFunctions02/ExampleContent/PivotPainter2/test2_rgb_PivotPos_a_ParentIndexInt_UV_2.uasset" 853
+"../../../Engine/Content/Functions/Engine_MaterialFunctions02/ExampleContent/PivotPainter2/PP2_rgb_XVect_a_XExtent.uasset" 854
+"C:/Users/Jose Velazquez/Documents/Unreal Projects/Capstone/Content/PN_mediterraneanPlants_II/Materials/PN_WindParameters.uasset" 855
+"../../../Engine/Content/Functions/Engine_MaterialFunctions02/PivotPainter2/ms_PivotPainter2_DecodePostion.uasset" 856
+"../../../Engine/Content/Functions/Engine_MaterialFunctions02/PivotPainter2/ms_PivotPainter2_DecodeAxisVector.uasset" 857
+"../../../Engine/Content/Functions/Engine_MaterialFunctions02/PivotPainter2/ms_PivotPainter2_Decode8BitAlphaAxisExtent.uasset" 858
+"../../../Engine/Content/Functions/Engine_MaterialFunctions02/ExampleContent/PivotPainter2/SimpExPivPos.uasset" 859
+"C:/Users/Jose Velazquez/Documents/Unreal Projects/Capstone/Content/PN_mediterraneanPlants_II/Materials/MaterialFunctions/PN_WindAnimation.uasset" 860
+"C:/Users/Jose Velazquez/Documents/Unreal Projects/Capstone/Content/PN_mediterraneanPlants_II/Materials/MaterialFunctions/PN_Bending.uasset" 861
+"../../../Engine/Content/Functions/Engine_MaterialFunctions02/WorldPositionOffset/ObjectPivotPoint.uasset" 862
+"C:/Users/Jose Velazquez/Documents/Unreal Projects/Capstone/Content/PN_mediterraneanPlants_II/Materials/MaterialFunctions/PN_MultiBend.uasset" 863
+"../../../Engine/Content/Functions/Engine_MaterialFunctions02/PivotPainter2/2dArrayLookupByIndex.uasset" 864
+"../../../Engine/Content/Functions/Engine_MaterialFunctions02/PivotPainter2/ms_PivotPainter2_ReturnParentTextureInfo.uasset" 865
+"../../../Engine/Content/Functions/Engine_MaterialFunctions02/PivotPainter2/ms_PivotPainter2_CalculateMeshElementIndex.uasset" 866
+"../../../Engine/Content/Functions/Engine_MaterialFunctions02/ms_PivotPainter2_UnpackIntegerAsFloat.uasset" 867
+"../../../Engine/Content/Functions/Engine_MaterialFunctions02/Lerp_Multiple_Float2.uasset" 868
+"C:/Users/Jose Velazquez/Documents/Unreal Projects/Capstone/Content/PN_mediterraneanPlants_II/Materials/MaterialFunctions/PN_BendingParameters.uasset" 869
+"C:/Users/Jose Velazquez/Documents/Unreal Projects/Capstone/Content/PN_mediterraneanPlants_II/Materials/MaterialFunctions/PN_AnimationShader.uasset" 870
+"C:/Users/Jose Velazquez/Documents/Unreal Projects/Capstone/Content/PN_mediterraneanPlants_II/Materials/MA_Flower.uasset" 871
+"C:/Users/Jose Velazquez/Documents/Unreal Projects/Capstone/Content/PN_mediterraneanPlants_II/Materials/Material_Instances/Flower/MI_Flower_03.uasset" 872
+"C:/Users/Jose Velazquez/Documents/Unreal Projects/Capstone/Content/PN_mediterraneanPlants_II/Meshes/flower_03.uasset" 873
+"C:/Users/Jose Velazquez/Documents/Unreal Projects/Capstone/Content/PN_mediterraneanPlants_II/Textures/PivotPainter/flower_02_VEC.uasset" 874
+"C:/Users/Jose Velazquez/Documents/Unreal Projects/Capstone/Content/PN_mediterraneanPlants_II/Textures/PivotPainter/flower_02_PIV.uasset" 875
+"C:/Users/Jose Velazquez/Documents/Unreal Projects/Capstone/Content/PN_mediterraneanPlants_II/Materials/Material_Instances/Flower/MI_Flower_02.uasset" 876
+"C:/Users/Jose Velazquez/Documents/Unreal Projects/Capstone/Content/PN_mediterraneanPlants_II/Meshes/flower_02.uasset" 877
+"C:/Users/Jose Velazquez/Documents/Unreal Projects/Capstone/Content/PN_mediterraneanPlants_II/Textures/PivotPainter/cactus_05_VEC.uasset" 878
+"C:/Users/Jose Velazquez/Documents/Unreal Projects/Capstone/Content/PN_mediterraneanPlants_II/Textures/PivotPainter/cactus_05_PIV.uasset" 879
+"C:/Users/Jose Velazquez/Documents/Unreal Projects/Capstone/Content/PN_mediterraneanPlants_II/Textures/MasterTextures/cactus_N.uasset" 880
+"C:/Users/Jose Velazquez/Documents/Unreal Projects/Capstone/Content/PN_mediterraneanPlants_II/Textures/MasterTextures/cactus_AORO.uasset" 881
+"C:/Users/Jose Velazquez/Documents/Unreal Projects/Capstone/Content/PN_mediterraneanPlants_II/Textures/MasterTextures/cactus_A.uasset" 882
+"C:/Users/Jose Velazquez/Documents/Unreal Projects/Capstone/Content/PN_mediterraneanPlants_II/Materials/MA_Cactus.uasset" 883
+"C:/Users/Jose Velazquez/Documents/Unreal Projects/Capstone/Content/PN_mediterraneanPlants_II/Materials/Material_Instances/Cactus/MI_Cactus_05.uasset" 884
+"C:/Users/Jose Velazquez/Documents/Unreal Projects/Capstone/Content/PN_mediterraneanPlants_II/Meshes/cactus_05.uasset" 885
+"C:/Users/Jose Velazquez/Documents/Unreal Projects/Capstone/Content/PN_mediterraneanPlants_II/Textures/PivotPainter/cactus_04_VEC.uasset" 886
+"C:/Users/Jose Velazquez/Documents/Unreal Projects/Capstone/Content/PN_mediterraneanPlants_II/Textures/PivotPainter/cactus_04_PIV.uasset" 887
+"C:/Users/Jose Velazquez/Documents/Unreal Projects/Capstone/Content/PN_mediterraneanPlants_II/Materials/Material_Instances/Cactus/MI_Cactus_04.uasset" 888
+"C:/Users/Jose Velazquez/Documents/Unreal Projects/Capstone/Content/PN_mediterraneanPlants_II/Meshes/cactus_04.uasset" 889
+"C:/Users/Jose Velazquez/Documents/Unreal Projects/Capstone/Content/PN_mediterraneanPlants_II/Textures/PivotPainter/cactus_03_VEC.uasset" 890
+"C:/Users/Jose Velazquez/Documents/Unreal Projects/Capstone/Content/PN_mediterraneanPlants_II/Textures/PivotPainter/cactus_03_PIV.uasset" 891
+"C:/Users/Jose Velazquez/Documents/Unreal Projects/Capstone/Content/PN_mediterraneanPlants_II/Materials/Material_Instances/Cactus/MI_Cactus_03.uasset" 892
+"C:/Users/Jose Velazquez/Documents/Unreal Projects/Capstone/Content/PN_mediterraneanPlants_II/Meshes/cactus_03.uasset" 893
+"C:/Users/Jose Velazquez/Documents/Unreal Projects/Capstone/Content/PN_mediterraneanPlants_II/Textures/PivotPainter/cactus_02_VEC.uasset" 894
+"C:/Users/Jose Velazquez/Documents/Unreal Projects/Capstone/Content/PN_mediterraneanPlants_II/Textures/PivotPainter/cactus_02_PIV.uasset" 895
+"C:/Users/Jose Velazquez/Documents/Unreal Projects/Capstone/Content/PN_mediterraneanPlants_II/Materials/Material_Instances/Cactus/MI_Cactus_02.uasset" 896
+"C:/Users/Jose Velazquez/Documents/Unreal Projects/Capstone/Content/PN_mediterraneanPlants_II/Meshes/cactus_02.uasset" 897
+"C:/Users/Jose Velazquez/Documents/Unreal Projects/Capstone/Content/PN_mediterraneanPlants_II/Textures/PivotPainter/cactus_01_VEC.uasset" 898
+"C:/Users/Jose Velazquez/Documents/Unreal Projects/Capstone/Content/PN_mediterraneanPlants_II/Textures/PivotPainter/cactus_01_PIV.uasset" 899
+"C:/Users/Jose Velazquez/Documents/Unreal Projects/Capstone/Content/PN_mediterraneanPlants_II/Materials/Material_Instances/Cactus/MI_Cactus_01.uasset" 900
+"C:/Users/Jose Velazquez/Documents/Unreal Projects/Capstone/Content/PN_mediterraneanPlants_II/Meshes/cactus_01.uasset" 901
+"C:/Users/Jose Velazquez/Documents/Unreal Projects/Capstone/Content/PN_mediterraneanPlants_II/Textures/PivotPainter/bush_02_02_VEC.uasset" 902
+"C:/Users/Jose Velazquez/Documents/Unreal Projects/Capstone/Content/PN_mediterraneanPlants_II/Textures/PivotPainter/bush_02_02_PIV.uasset" 903
+"C:/Users/Jose Velazquez/Documents/Unreal Projects/Capstone/Content/PN_mediterraneanPlants_II/Textures/MasterTextures/bush_N.uasset" 904
+"C:/Users/Jose Velazquez/Documents/Unreal Projects/Capstone/Content/PN_mediterraneanPlants_II/Textures/MasterTextures/bush_AORO.uasset" 905
+"C:/Users/Jose Velazquez/Documents/Unreal Projects/Capstone/Content/PN_mediterraneanPlants_II/Textures/MasterTextures/bush_A.uasset" 906
+"C:/Users/Jose Velazquez/Documents/Unreal Projects/Capstone/Content/PN_mediterraneanPlants_II/Materials/MA_Bush.uasset" 907
+"C:/Users/Jose Velazquez/Documents/Unreal Projects/Capstone/Content/PN_mediterraneanPlants_II/Materials/Material_Instances/Bush/MI_bush_02_02.uasset" 908
+"C:/Users/Jose Velazquez/Documents/Unreal Projects/Capstone/Content/PN_mediterraneanPlants_II/Meshes/bush_02_02.uasset" 909
+"C:/Users/Jose Velazquez/Documents/Unreal Projects/Capstone/Content/PN_mediterraneanPlants_II/Textures/PivotPainter/bush_02_01_VEC.uasset" 910
+"C:/Users/Jose Velazquez/Documents/Unreal Projects/Capstone/Content/PN_mediterraneanPlants_II/Textures/PivotPainter/bush_02_01_PIV.uasset" 911
+"C:/Users/Jose Velazquez/Documents/Unreal Projects/Capstone/Content/PN_mediterraneanPlants_II/Materials/Material_Instances/Bush/MI_bush_02_01.uasset" 912
+"C:/Users/Jose Velazquez/Documents/Unreal Projects/Capstone/Content/PN_mediterraneanPlants_II/Meshes/bush_02_01.uasset" 913
+"C:/Users/Jose Velazquez/Documents/Unreal Projects/Capstone/Content/PN_mediterraneanPlants_II/Textures/PivotPainter/bush_01_04_VEC.uasset" 914
+"C:/Users/Jose Velazquez/Documents/Unreal Projects/Capstone/Content/PN_mediterraneanPlants_II/Textures/PivotPainter/bush_01_04_PIV.uasset" 915
+"C:/Users/Jose Velazquez/Documents/Unreal Projects/Capstone/Content/PN_mediterraneanPlants_II/Materials/Material_Instances/Bush/MI_bush_01_04.uasset" 916
+"C:/Users/Jose Velazquez/Documents/Unreal Projects/Capstone/Content/PN_mediterraneanPlants_II/Meshes/bush_01_04.uasset" 917
+"C:/Users/Jose Velazquez/Documents/Unreal Projects/Capstone/Content/PN_mediterraneanPlants_II/Textures/PivotPainter/bush_01_02_VEC.uasset" 918
+"C:/Users/Jose Velazquez/Documents/Unreal Projects/Capstone/Content/PN_mediterraneanPlants_II/Textures/PivotPainter/bush_01_02_PIV.uasset" 919
+"C:/Users/Jose Velazquez/Documents/Unreal Projects/Capstone/Content/PN_mediterraneanPlants_II/Materials/Material_Instances/Bush/MI_bush_01_02.uasset" 920
+"C:/Users/Jose Velazquez/Documents/Unreal Projects/Capstone/Content/PN_mediterraneanPlants_II/Meshes/bush_01_02.uasset" 921
+"C:/Users/Jose Velazquez/Documents/Unreal Projects/Capstone/Content/Music/S_TargetShooting.uasset" 922
+"C:/Users/Jose Velazquez/Documents/Unreal Projects/Capstone/Content/Music/Cue_TargetShooting.uasset" 923
+"C:/Users/Jose Velazquez/Documents/Unreal Projects/Capstone/Content/PN_mediterraneanPlants_II/Textures/PivotPainter/bush_01_01_VEC.uasset" 924
+"C:/Users/Jose Velazquez/Documents/Unreal Projects/Capstone/Content/PN_mediterraneanPlants_II/Textures/PivotPainter/bush_01_01_PIV.uasset" 925
+"C:/Users/Jose Velazquez/Documents/Unreal Projects/Capstone/Content/PN_mediterraneanPlants_II/Materials/Material_Instances/Bush/MI_bush_01_01.uasset" 926
+"C:/Users/Jose Velazquez/Documents/Unreal Projects/Capstone/Content/PN_mediterraneanPlants_II/Meshes/bush_01_01.uasset" 927
+"../../../Engine/Content/BasicShapes/BasicShapeMaterial.uasset" 928
+"C:/Users/Jose Velazquez/Documents/Unreal Projects/Capstone/Content/MergeActor/TiroAlBlanco/Vallas.uasset" 929
+"C:/Users/Jose Velazquez/Documents/Unreal Projects/Capstone/Content/MergeActor/TiroAlBlanco/Rocks.uasset" 930
+"C:/Users/Jose Velazquez/Documents/Unreal Projects/Capstone/Content/PN_mediterraneanPlants_II/Textures/PivotPainter/bush_02_03_VEC.uasset" 931
+"C:/Users/Jose Velazquez/Documents/Unreal Projects/Capstone/Content/PN_mediterraneanPlants_II/Textures/PivotPainter/bush_02_03_PIV.uasset" 932
+"C:/Users/Jose Velazquez/Documents/Unreal Projects/Capstone/Content/PN_mediterraneanPlants_II/Materials/Material_Instances/Bush/MI_bush_02_03.uasset" 933
+"C:/Users/Jose Velazquez/Documents/Unreal Projects/Capstone/Content/PN_mediterraneanPlants_II/Textures/PivotPainter/bush_01_03_VEC.uasset" 934
+"C:/Users/Jose Velazquez/Documents/Unreal Projects/Capstone/Content/PN_mediterraneanPlants_II/Textures/PivotPainter/bush_01_03_PIV.uasset" 935
+"C:/Users/Jose Velazquez/Documents/Unreal Projects/Capstone/Content/PN_mediterraneanPlants_II/Materials/Material_Instances/Bush/MI_bush_01_03.uasset" 936
+"C:/Users/Jose Velazquez/Documents/Unreal Projects/Capstone/Content/MergeActor/TiroAlBlanco/Bush.uasset" 937
+"C:/Users/Jose Velazquez/Documents/Unreal Projects/Capstone/Content/LPSDeluxe2TropicalEnvironment/LPSD2_Materials/Materials/Master_Color_Instances/MI_Color_BrownGlass.uasset" 938
+"C:/Users/Jose Velazquez/Documents/Unreal Projects/Capstone/Content/LPSDeluxe2TropicalEnvironment/LPSD2_Materials/Materials/Master_Color_Instances/MI_Color_Bamboo_2.uasset" 939
+"C:/Users/Jose Velazquez/Documents/Unreal Projects/Capstone/Content/MergeActor/TiroAlBlanco/Barriles.uasset" 940
+"C:/Users/Jose Velazquez/Documents/Unreal Projects/Capstone/Content/LPSDeluxe2TropicalEnvironment/LPSD2_Meshes/Pirate/SM_ShipBarrel_2.uasset" 941
+"C:/Users/Jose Velazquez/Documents/Unreal Projects/Capstone/Content/LPSDeluxe2TropicalEnvironment/LPSD2_Meshes/Pirate/SM_ShipBarrel_1.uasset" 942
+"C:/Users/Jose Velazquez/Documents/Unreal Projects/Capstone/Content/LPSDeluxe2TropicalEnvironment/LPSD2_Meshes/Pirate/SM_RumBottle_1.uasset" 943
+"C:/Users/Jose Velazquez/Documents/Unreal Projects/Capstone/Content/LPSDeluxe2TropicalEnvironment/LPSD2_Materials/Materials/Master_Color_Instances/MI_Color_Bamboo.uasset" 944
+"C:/Users/Jose Velazquez/Documents/Unreal Projects/Capstone/Content/LPSDeluxe2TropicalEnvironment/LPSD2_Materials/Materials/Master_Color_Instances/MI_Color_2S_Pine.uasset" 945
+"C:/Users/Jose Velazquez/Documents/Unreal Projects/Capstone/Content/LPSDeluxe2TropicalEnvironment/LPSD2_Meshes/Pirate/SM_MessageBottle_1.uasset" 946
+"C:/Users/Jose Velazquez/Documents/Unreal Projects/Capstone/Content/LPSDeluxe2TropicalEnvironment/LPSD2_Meshes/Pirate/SM_Crate_1.uasset" 947
+"C:/Users/Jose Velazquez/Documents/Unreal Projects/Capstone/Content/LPSDeluxe2TropicalEnvironment/LPSD2_Meshes/Pirate/SM_BarrellTap_1.uasset" 948
+"C:/Users/Jose Velazquez/Documents/Unreal Projects/Capstone/Content/LPSDeluxe2TropicalEnvironment/LPSD2_Meshes/Mountain/SM_TRock_3.uasset" 949
+"C:/Users/Jose Velazquez/Documents/Unreal Projects/Capstone/Content/LPSDeluxe2TropicalEnvironment/LPSD2_Meshes/Mountain/SM_TRock_2.uasset" 950
+"C:/Users/Jose Velazquez/Documents/Unreal Projects/Capstone/Content/LPSDeluxe2TropicalEnvironment/LPSD2_Meshes/Mountain/SM_TRock_1.uasset" 951
+"C:/Users/Jose Velazquez/Documents/Unreal Projects/Capstone/Content/LPSDeluxe2TropicalEnvironment/LPSD2_Materials/SpecialMaterials/2ToneMaterials/MI_Mount_CreamOrange.uasset" 952
 "C:/Users/Jose Velazquez/Documents/Unreal Projects/Capstone/Content/_Maps/Tiro-Al-Blanco.umap" 953
 "../../../Engine/Content/Maps/Entry_BuiltData.uasset" 954
 "../../../Engine/Content/Maps/Entry.umap" 955
