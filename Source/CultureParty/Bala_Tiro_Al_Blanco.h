@@ -4,16 +4,16 @@
 
 #include "CoreMinimal.h"
 #include "GameFramework/Actor.h"
-#include "Target.generated.h"
+#include "Bala_Tiro_Al_Blanco.generated.h"
 
 UCLASS()
-class CAPSTONE_API ATarget : public AActor
+class CULTUREPARTY_API ABala_Tiro_Al_Blanco : public AActor
 {
 	GENERATED_BODY()
 	
 public:	
 	// Sets default values for this actor's properties
-	ATarget();
+	ABala_Tiro_Al_Blanco();
 
 protected:
 	// Called when the game starts or when spawned

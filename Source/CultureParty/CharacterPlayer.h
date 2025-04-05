@@ -7,7 +7,7 @@
 #include "CharacterPlayer.generated.h"
 
 UCLASS()
-class CAPSTONE_API ACharacterPlayer : public ACharacter
+class CULTUREPARTY_API ACharacterPlayer : public ACharacter
 {
 	GENERATED_BODY()
 

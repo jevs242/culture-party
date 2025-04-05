@@ -3,12 +3,12 @@
 using UnrealBuildTool;
 using System.Collections.Generic;
 
-public class CapstoneTarget : TargetRules
+public class CulturePartyTarget : TargetRules
 {
-	public CapstoneTarget( TargetInfo Target) : base(Target)
+	public CulturePartyTarget( TargetInfo Target) : base(Target)
 	{
 		Type = TargetType.Game;
 		DefaultBuildSettings = BuildSettingsVersion.V2;
-		ExtraModuleNames.AddRange( new string[] { "Capstone" } );
+		ExtraModuleNames.AddRange( new string[] { "CultureParty" } );
 	}
 }

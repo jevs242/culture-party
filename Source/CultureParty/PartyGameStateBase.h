@@ -3,14 +3,15 @@
 #pragma once
 
 #include "CoreMinimal.h"
-#include "GameFramework/PlayerController.h"
-#include "PartyPlayerController.generated.h"
+#include "GameFramework/GameStateBase.h"
+#include "PartyGameStateBase.generated.h"
 
 /**
  * 
  */
 UCLASS()
-class CAPSTONE_API APartyPlayerController : public APlayerController
+class CULTUREPARTY_API APartyGameStateBase : public AGameStateBase
 {
 	GENERATED_BODY()
+	
 };

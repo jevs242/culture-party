@@ -10,7 +10,7 @@
  * 
  */
 UCLASS()
-class CAPSTONE_API UPartyGameInstance : public UGameInstance
+class CULTUREPARTY_API UPartyGameInstance : public UGameInstance
 {
 	GENERATED_BODY()
 	

@@ -2,9 +2,9 @@
 
 using UnrealBuildTool;
 
-public class Capstone : ModuleRules
+public class CultureParty : ModuleRules
 {
-	public Capstone(ReadOnlyTargetRules Target) : base(Target)
+	public CultureParty(ReadOnlyTargetRules Target) : base(Target)
 	{
 		PCHUsage = PCHUsageMode.UseExplicitOrSharedPCHs;
 	

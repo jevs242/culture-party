@@ -7,7 +7,7 @@
 #include "CamaraPlayer.generated.h"
 
 UCLASS()
-class CAPSTONE_API ACamaraPlayer : public APawn
+class CULTUREPARTY_API ACamaraPlayer : public APawn
 {
 	GENERATED_BODY()
 

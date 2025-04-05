@@ -7,7 +7,7 @@
 #include "Block.generated.h"
 
 UCLASS()
-class CAPSTONE_API ABlock : public AActor
+class CULTUREPARTY_API ABlock : public AActor
 {
 	GENERATED_BODY()
 

@@ -4,13 +4,13 @@
 
 #include "CoreMinimal.h"
 #include "GameFramework/GameModeBase.h"
-#include "CapstoneGameModeBase.generated.h"
+#include "CulturePartyGameModeBase.generated.h"
 
 /**
  * 
  */
 UCLASS()
-class CAPSTONE_API ACapstoneGameModeBase : public AGameModeBase
+class CULTUREPARTY_API ACulturePartyGameModeBase : public AGameModeBase
 {
 	GENERATED_BODY()
 	
